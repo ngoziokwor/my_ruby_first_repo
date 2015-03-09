@@ -1,1 +1,0 @@
-default: --no-source --color --require features/ --no-source --format pretty --format PrettyFace::Formatter::Html --out reports/pretty_face_reports/index.html
