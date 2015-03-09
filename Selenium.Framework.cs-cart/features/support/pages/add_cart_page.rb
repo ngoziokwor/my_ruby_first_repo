@@ -5,6 +5,8 @@ class AddCartPage
     @browser = browser
   end
 
+
+
   def click_add_cart
     begin
       @browser.find_element(:id => "opener_call_request_6").click
