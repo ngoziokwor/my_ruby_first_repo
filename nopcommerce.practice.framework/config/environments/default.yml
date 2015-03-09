@@ -1,0 +1,12 @@
+#Homepage
+
+base_url: http://admin-demo.nopcommerce.com/admin/
+
+
+valid_username: admin@yourstore.com
+valid_password: admin
+email_address: engeeforever@yahoo.co.uk
+
+
+new_customer_email_address: denis.johnson@yahoo.co.uk
+new_customer_password: Tester45@gold

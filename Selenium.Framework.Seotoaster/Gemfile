@@ -1,0 +1,10 @@
+source 'https://rubygems.org'
+
+gem 'cucumber'
+gem 'rspec'
+gem 'rake'
+gem 'page-object'
+gem 'selenium-webdriver'
+gem 'rspec-expectations'
+gem 'pretty_face'
+gem 'fig_newton'

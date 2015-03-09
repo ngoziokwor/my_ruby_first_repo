@@ -1,0 +1,1677 @@
+I, [2015-03-02T16:25:08.863539 #6188]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T16:25:10.614639 #6188]  INFO -- : Sign-in clicked
+I, [2015-03-02T16:27:58.452239 #4636]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T16:28:02.369463 #4636]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:06:03.400838 #5024]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:06:05.143938 #5024]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:06:06.168997 #5024]  INFO -- : Entered valid email
+I, [2015-03-02T18:15:23.450872 #3640]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:15:25.422984 #3640]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:15:27.108081 #3640]  INFO -- : Entered valid email
+I, [2015-03-02T18:15:27.777119 #3640]  INFO -- : Screenshot was taken successfully
+D, [2015-03-02T18:15:27.777119 #3640] DEBUG -- : undefined method `set' for #<Selenium::WebDriver::Element:0x322aec8> (NoMethodError)
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:25:in `login_with_valid_data'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:8:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T18:22:33.040443 #5800]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:22:34.680536 #5800]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:22:36.444637 #5800]  INFO -- : Email entered successfully
+I, [2015-03-02T18:22:37.116676 #5800]  INFO -- : Screenshot was taken successfully
+D, [2015-03-02T18:22:37.116676 #5800] DEBUG -- : undefined method `set' for #<Selenium::WebDriver::Element:0x31cf140> (NoMethodError)
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:29:in `login_with_valid_data'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:8:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T18:29:38.643786 #5156]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:29:40.330882 #5156]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:29:41.537951 #5156]  INFO -- : Email entered successfully
+I, [2015-03-02T18:29:42.115984 #5156]  INFO -- : Password entered successfully
+I, [2015-03-02T18:29:42.353998 #5156]  INFO -- : Remember me option ticked
+I, [2015-03-02T18:35:31.770983 #2692]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:35:33.629090 #2692]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:35:35.552200 #2692]  INFO -- : Email entered successfully
+I, [2015-03-02T18:35:36.043228 #2692]  INFO -- : Password entered successfully
+I, [2015-03-02T18:35:36.268241 #2692]  INFO -- : Remember me option ticked
+I, [2015-03-02T18:44:34.897048 #3252]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:44:36.580145 #3252]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:44:37.912221 #3252]  INFO -- : Email entered successfully
+I, [2015-03-02T18:44:38.516256 #3252]  INFO -- : Password entered successfully
+I, [2015-03-02T18:44:38.817273 #3252]  INFO -- : Remember me option ticked
+I, [2015-03-02T18:44:38.885277 #3252]  INFO -- : Verified login was successful
+I, [2015-03-02T18:50:51.049563 #6028]  INFO -- : 
+I, [2015-03-02T18:50:51.051563 #6028]  INFO -- : Home Page class has been instantiated
+I, [2015-03-02T18:50:56.442872 #6028]  INFO -- : Browser was closed successfully
+I, [2015-03-02T18:51:25.711546 #4632]  INFO -- : 
+I, [2015-03-02T18:51:33.760006 #4632]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:51:35.814124 #4632]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:51:37.208203 #4632]  INFO -- : Email entered successfully
+I, [2015-03-02T18:51:38.119255 #4632]  INFO -- : Password entered successfully
+I, [2015-03-02T18:51:38.397271 #4632]  INFO -- : Remember me option ticked
+I, [2015-03-02T18:51:38.517278 #4632]  INFO -- : Verified login was successful
+I, [2015-03-02T18:51:43.816581 #4632]  INFO -- : Browser was closed successfully
+I, [2015-03-02T18:58:33.108991 #6212]  INFO -- : 
+I, [2015-03-02T18:58:41.410466 #6212]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T18:58:43.153566 #6212]  INFO -- : Sign-in clicked
+I, [2015-03-02T18:58:44.098620 #6212]  INFO -- : Email entered successfully
+I, [2015-03-02T18:58:44.778659 #6212]  INFO -- : Password entered successfully
+I, [2015-03-02T18:58:45.011672 #6212]  INFO -- : Remember me option ticked
+I, [2015-03-02T18:58:45.102677 #6212]  INFO -- : Verified login was successful
+I, [2015-03-02T18:58:50.282974 #6212]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:04:07.455115 #2684]  INFO -- : 
+I, [2015-03-02T19:04:15.616582 #2684]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:04:17.202673 #2684]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:04:18.588752 #2684]  INFO -- : Email entered successfully
+I, [2015-03-02T19:04:19.087780 #2684]  INFO -- : Password entered successfully
+I, [2015-03-02T19:04:19.324794 #2684]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:04:19.394798 #2684] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:04:19.863825 #2684]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:04:25.095124 #2684]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:05:37.060240 #5720]  INFO -- : 
+I, [2015-03-02T19:05:45.143702 #5720]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:05:46.653789 #5720]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:05:48.385888 #5720]  INFO -- : Email entered successfully
+I, [2015-03-02T19:05:48.894917 #5720]  INFO -- : Password entered successfully
+I, [2015-03-02T19:05:49.135931 #5720]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:05:49.209935 #5720] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:05:49.673962 #5720]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:05:55.132274 #5720]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:06:59.942981 #6524]  INFO -- : 
+I, [2015-03-02T19:07:07.992441 #6524]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:07:09.725540 #6524]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:07:11.985670 #6524]  INFO -- : Email entered successfully
+I, [2015-03-02T19:07:12.441696 #6524]  INFO -- : Password entered successfully
+I, [2015-03-02T19:07:12.737713 #6524]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:07:15.782887 #6524] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:12:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:07:16.261914 #6524]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:07:21.698225 #6524]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:09:57.877158 #5692]  INFO -- : 
+I, [2015-03-02T19:10:05.515595 #5692]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:10:07.171690 #5692]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:10:08.324756 #5692]  INFO -- : Email entered successfully
+I, [2015-03-02T19:10:08.833785 #5692]  INFO -- : Password entered successfully
+I, [2015-03-02T19:10:09.047797 #5692]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:10:12.093971 #5692] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:12:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:10:12.574999 #5692]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:10:17.975308 #5692]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:16:50.399753 #5612]  INFO -- : 
+I, [2015-03-02T19:16:57.852179 #5612]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:16:59.418269 #5612]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:17:01.223372 #5612]  INFO -- : Email entered successfully
+I, [2015-03-02T19:17:01.649396 #5612]  INFO -- : Password entered successfully
+I, [2015-03-02T19:17:01.867409 #5612]  INFO -- : Remember me option ticked
+I, [2015-03-02T19:17:01.958414 #5612]  INFO -- : Verified login was successful
+I, [2015-03-02T19:17:07.339722 #5612]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:20:51.066518 #5512]  INFO -- : 
+I, [2015-03-02T19:20:58.109921 #5512]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:21:00.054032 #5512]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:21:01.744129 #5512]  INFO -- : Email entered successfully
+I, [2015-03-02T19:21:02.301161 #5512]  INFO -- : Password entered successfully
+I, [2015-03-02T19:21:02.959198 #5512]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:21:18.005059 #5512] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:21:18.519088 #5512]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:21:23.947399 #5512]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:22:10.471060 #5952]  INFO -- : 
+I, [2015-03-02T19:22:19.731590 #5952]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:22:21.654700 #5952]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:22:22.862769 #5952]  INFO -- : Email entered successfully
+I, [2015-03-02T19:22:24.053837 #5952]  INFO -- : Password entered successfully
+I, [2015-03-02T19:22:24.250848 #5952]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:22:39.322710 #5952] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:22:39.795737 #5952]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:22:45.519065 #5952]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:24:27.061872 #5376]  INFO -- : 
+I, [2015-03-02T19:24:35.098332 #5376]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:24:36.439409 #5376]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:24:37.620476 #5376]  INFO -- : Email entered successfully
+I, [2015-03-02T19:24:38.084503 #5376]  INFO -- : Password entered successfully
+I, [2015-03-02T19:24:38.269514 #5376]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:24:53.328375 #5376] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:24:53.890407 #5376]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:24:59.434724 #5376]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:28:47.162749 #5780]  INFO -- : 
+I, [2015-03-02T19:28:54.710181 #5780]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:28:56.338274 #5780]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:28:57.449338 #5780]  INFO -- : Email entered successfully
+I, [2015-03-02T19:28:57.920365 #5780]  INFO -- : Password entered successfully
+I, [2015-03-02T19:28:58.164379 #5780]  INFO -- : Remember me option ticked
+D, [2015-03-02T19:29:16.748442 #5780] DEBUG -- : no such element
+  (Session info: chrome=40.0.2214.115)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/support/pages/landing_page.rb:11:in `verify_welcome_message'
+C:/Projects/Ruby Projects/Selenium.Framework.cs-cart/features/step_definitions/CS001_Login_step.rb:12:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-03-02T19:29:17.331475 #5780]  INFO -- : Screenshot was taken successfully
+I, [2015-03-02T19:29:22.558774 #5780]  INFO -- : Browser was closed successfully
+I, [2015-03-02T19:32:50.483667 #3744]  INFO -- : 
+I, [2015-03-02T19:32:58.830144 #3744]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T19:33:00.477238 #3744]  INFO -- : Sign-in clicked
+I, [2015-03-02T19:33:02.254340 #3744]  INFO -- : Email entered successfully
+I, [2015-03-02T19:33:03.094388 #3744]  INFO -- : Password entered successfully
+I, [2015-03-02T19:33:03.334402 #3744]  INFO -- : Remember me option ticked
+I, [2015-03-02T19:33:06.530584 #3744]  INFO -- : Verified login was successful
+I, [2015-03-02T19:33:11.927893 #3744]  INFO -- : Browser was closed successfully
+I, [2015-03-02T21:54:36.190165 #5708]  INFO -- : 
+I, [2015-03-02T21:54:57.578388 #5708]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-02T21:54:58.936466 #5708]  INFO -- : Sign-in clicked
+I, [2015-03-02T21:54:59.519500 #5708]  INFO -- : Email entered successfully
+I, [2015-03-02T21:54:59.806516 #5708]  INFO -- : Password entered successfully
+I, [2015-03-02T21:54:59.980526 #5708]  INFO -- : Remember me option ticked
+I, [2015-03-02T21:55:04.410779 #5708]  INFO -- : Verified login was successful
+I, [2015-03-02T21:55:09.634078 #5708]  INFO -- : Browser was closed successfully
+I, [2015-03-02T21:56:45.137541 #5264]  INFO -- : 
+I, [2015-03-02T21:56:50.362839 #5264]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:00:28.274499 #5408]  INFO -- : 
+I, [2015-03-05T03:00:33.411786 #5408]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:37:16.906064 #3144]  INFO -- : 
+I, [2015-03-05T03:37:25.693567 #3144]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T03:37:26.784629 #3144]  INFO -- : Sign-in clicked
+I, [2015-03-05T03:37:32.185938 #3144]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:42:44.071777 #2940]  INFO -- : 
+I, [2015-03-05T03:42:51.793219 #2940]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T03:42:52.916283 #2940]  INFO -- : Sign-in clicked
+I, [2015-03-05T03:42:58.147582 #2940]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:50:20.558887 #5720]  INFO -- : 
+I, [2015-03-05T03:50:27.470282 #5720]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T03:50:28.559344 #5720]  INFO -- : Sign-in clicked
+I, [2015-03-05T03:50:35.564745 #5720]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:54:30.037156 #3372]  INFO -- : 
+I, [2015-03-05T03:54:37.238568 #3372]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T03:54:38.262626 #3372]  INFO -- : Sign-in clicked
+I, [2015-03-05T03:54:45.096017 #3372]  INFO -- : Browser was closed successfully
+I, [2015-03-05T03:55:44.211398 #2856]  INFO -- : 
+I, [2015-03-05T03:55:50.661767 #2856]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T03:55:51.822834 #2856]  INFO -- : Sign-in clicked
+I, [2015-03-05T03:55:59.889295 #2856]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:26:56.715132 #2484]  INFO -- : 
+I, [2015-03-05T08:27:03.635528 #2484]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:27:04.628585 #2484]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:27:06.753707 #2484]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:27:12.194018 #2484]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:35:16.046693 #5664]  INFO -- : 
+I, [2015-03-05T08:35:23.524120 #5664]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:35:26.415286 #5664]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:35:27.032321 #5664]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:35:29.280449 #5664]  INFO -- : The search button was clicked
+I, [2015-03-05T08:35:29.352454 #5664]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:35:34.626755 #5664]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:44:06.024006 #4732]  INFO -- : 
+I, [2015-03-05T08:44:13.010405 #4732]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:44:14.179472 #4732]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:44:15.527549 #4732]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:44:16.622612 #4732]  INFO -- : The search button was clicked
+I, [2015-03-05T08:44:16.707617 #4732]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:44:16.766620 #4732]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:44:22.071923 #4732]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:50:12.788983 #1944]  INFO -- : 
+I, [2015-03-05T08:50:19.494367 #1944]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:50:20.558428 #1944]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:50:21.321471 #1944]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:50:22.489538 #1944]  INFO -- : The search button was clicked
+I, [2015-03-05T08:50:22.578543 #1944]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:50:22.636547 #1944]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:50:27.898848 #1944]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:51:19.711811 #5644]  INFO -- : 
+I, [2015-03-05T08:51:26.567203 #5644]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:51:27.704268 #5644]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:51:28.387307 #5644]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:51:29.557374 #5644]  INFO -- : The search button was clicked
+I, [2015-03-05T08:51:29.639379 #5644]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:51:29.698382 #5644]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:51:29.761386 #5644]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:51:29.834390 #5644]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:51:35.013686 #5644]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:54:52.606988 #6108]  INFO -- : 
+I, [2015-03-05T08:54:59.518383 #6108]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:55:00.573444 #6108]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:55:01.189479 #6108]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:55:02.526555 #6108]  INFO -- : The search button was clicked
+I, [2015-03-05T08:55:02.608560 #6108]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:55:02.667563 #6108]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:55:02.730567 #6108]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:55:02.802571 #6108]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:55:08.051871 #6108]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:56:02.757000 #4664]  INFO -- : 
+I, [2015-03-05T08:56:10.828462 #4664]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:56:11.856521 #4664]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:56:12.629565 #4664]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:56:13.917639 #4664]  INFO -- : The search button was clicked
+I, [2015-03-05T08:56:13.991643 #4664]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:56:14.049646 #4664]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:56:14.113650 #4664]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:56:14.185654 #4664]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:56:19.382951 #4664]  INFO -- : Browser was closed successfully
+I, [2015-03-05T08:58:29.528395 #4884]  INFO -- : 
+I, [2015-03-05T08:58:37.499851 #4884]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T08:58:38.533910 #4884]  INFO -- : Sign-in clicked
+I, [2015-03-05T08:58:39.791982 #4884]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T08:58:41.103057 #4884]  INFO -- : The search button was clicked
+I, [2015-03-05T08:58:41.174061 #4884]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:58:41.232065 #4884]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:58:43.232179 #4884]  INFO -- : Sleep was called
+I, [2015-03-05T08:58:43.321184 #4884]  INFO -- : verified that item1 exist
+I, [2015-03-05T08:58:43.393188 #4884]  INFO -- : verified that item1 price exist
+I, [2015-03-05T08:58:45.393303 #4884]  INFO -- : Sleep was called
+I, [2015-03-05T08:58:50.574599 #4884]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:02:08.292908 #5764]  INFO -- : 
+D, [2015-03-05T09:02:23.404772 #5764] DEBUG -- : Error occured at the search page
+I, [2015-03-05T09:02:23.439774 #5764]  INFO -- : verified that item1 exist
+I, [2015-03-05T09:02:23.451775 #5764]  INFO -- : verified that item1 price exist
+I, [2015-03-05T09:02:25.451889 #5764]  INFO -- : Sleep was called
+I, [2015-03-05T09:02:25.499892 #5764]  INFO -- : verified that item1 exist
+I, [2015-03-05T09:02:25.511893 #5764]  INFO -- : verified that item1 price exist
+I, [2015-03-05T09:02:27.513007 #5764]  INFO -- : Sleep was called
+I, [2015-03-05T09:02:32.799309 #5764]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:09:16.618407 #3472]  INFO -- : 
+D, [2015-03-05T09:09:32.191297 #3472] DEBUG -- : Error occured at the search page
+I, [2015-03-05T09:09:37.441598 #3472]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:12:14.550584 #5532]  INFO -- : 
+I, [2015-03-05T09:12:19.800884 #5532]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:13:21.050387 #4264]  INFO -- : 
+I, [2015-03-05T09:13:26.289687 #4264]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:18:21.500572 #5732]  INFO -- : 
+I, [2015-03-05T09:18:26.771874 #5732]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:29:49.186905 #4192]  INFO -- : 
+I, [2015-03-05T09:29:56.692335 #4192]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T09:29:57.681391 #4192]  INFO -- : Sign-in clicked
+I, [2015-03-05T09:30:02.981694 #4192]  INFO -- : Browser was closed successfully
+I, [2015-03-05T09:48:07.032699 #1524]  INFO -- : 
+I, [2015-03-05T09:48:13.666078 #1524]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T09:48:14.783142 #1524]  INFO -- : Sign-in clicked
+I, [2015-03-05T09:48:20.411464 #1524]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:29:29.923712 #5240]  INFO -- : 
+I, [2015-03-05T10:29:37.080121 #5240]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:29:38.474201 #5240]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:29:39.150240 #5240]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:29:40.736330 #5240]  INFO -- : The search button was clicked
+I, [2015-03-05T10:29:42.736445 #5240]  INFO -- : Sleep called
+I, [2015-03-05T10:29:48.163755 #5240]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:50:37.199196 #5792]  INFO -- : 
+I, [2015-03-05T10:50:44.884635 #5792]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:50:46.365720 #5792]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:50:47.100762 #5792]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:50:48.632850 #5792]  INFO -- : The search button was clicked
+I, [2015-03-05T10:50:50.635964 #5792]  INFO -- : Sleep called
+I, [2015-03-05T10:50:56.111278 #5792]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:53:48.726151 #1392]  INFO -- : 
+I, [2015-03-05T10:53:57.268639 #1392]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:53:58.658719 #1392]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:53:59.232752 #1392]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:54:00.636832 #1392]  INFO -- : The search button was clicked
+I, [2015-03-05T10:54:02.636946 #1392]  INFO -- : Sleep called
+I, [2015-03-05T10:54:08.092258 #1392]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:56:36.419742 #1228]  INFO -- : 
+I, [2015-03-05T10:56:44.294193 #1228]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:56:45.760276 #1228]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:56:46.413314 #1228]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:56:47.980403 #1228]  INFO -- : The search button was clicked
+I, [2015-03-05T10:56:49.980518 #1228]  INFO -- : Sleep called
+I, [2015-03-05T10:56:55.325824 #1228]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:57:25.749564 #1448]  INFO -- : 
+I, [2015-03-05T10:57:34.545067 #1448]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:57:36.205162 #1448]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:57:37.037209 #1448]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:57:38.713305 #1448]  INFO -- : The search button was clicked
+I, [2015-03-05T10:57:40.713420 #1448]  INFO -- : Sleep called
+I, [2015-03-05T10:57:46.027723 #1448]  INFO -- : Browser was closed successfully
+I, [2015-03-05T10:59:00.742997 #3188]  INFO -- : 
+I, [2015-03-05T10:59:09.186480 #3188]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T10:59:10.690566 #3188]  INFO -- : Sign-in clicked
+I, [2015-03-05T10:59:11.397606 #3188]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T10:59:13.140706 #3188]  INFO -- : The search button was clicked
+I, [2015-03-05T10:59:15.140820 #3188]  INFO -- : Sleep called
+I, [2015-03-05T10:59:15.222825 #3188]  INFO -- : Verified that item2 name exist
+I, [2015-03-05T10:59:17.223940 #3188]  INFO -- : Sleep called
+I, [2015-03-05T10:59:22.701253 #3188]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:06:31.556782 #3424]  INFO -- : 
+I, [2015-03-05T11:06:38.693190 #3424]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T11:06:40.128272 #3424]  INFO -- : Sign-in clicked
+I, [2015-03-05T11:06:40.778309 #3424]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T11:06:43.850485 #3424]  INFO -- : The search button was clicked
+I, [2015-03-05T11:06:45.850600 #3424]  INFO -- : Sleep called
+I, [2015-03-05T11:06:45.931604 #3424]  INFO -- : Verified that item2 name exist
+I, [2015-03-05T11:06:47.931719 #3424]  INFO -- : Sleep called
+I, [2015-03-05T11:06:48.008723 #3424]  INFO -- : Verified that item2 price exist
+I, [2015-03-05T11:06:50.010838 #3424]  INFO -- : Sleep called
+I, [2015-03-05T11:06:55.268138 #3424]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:10:43.015165 #1392]  INFO -- : 
+I, [2015-03-05T11:11:03.653345 #1392]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:17:03.204910 #1352]  INFO -- : 
+I, [2015-03-05T11:17:23.970098 #1352]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:16:53.566359 #1352]  INFO -- : 
+I, [2015-03-05T11:16:58.816659 #1352]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:19:31.765407 #5816]  INFO -- : 
+I, [2015-03-05T11:19:52.407588 #5816]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:19:21.446817 #5816]  INFO -- : 
+I, [2015-03-05T11:19:26.903129 #5816]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:26:54.942756 #3568]  INFO -- : 
+I, [2015-03-05T11:27:02.875209 #3568]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T11:27:04.381296 #3568]  INFO -- : Sign-in clicked
+I, [2015-03-05T11:27:09.946614 #3568]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:29:58.198237 #4968]  INFO -- : 
+I, [2015-03-05T11:30:07.108747 #4968]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T11:30:08.500827 #4968]  INFO -- : Sign-in clicked
+I, [2015-03-05T11:30:09.096861 #4968]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T11:30:10.682951 #4968]  INFO -- : The search button was clicked
+I, [2015-03-05T11:30:12.688066 #4968]  INFO -- : Sleep called
+I, [2015-03-05T11:30:12.775071 #4968]  INFO -- : Verified that item2 name exist
+I, [2015-03-05T11:30:14.775185 #4968]  INFO -- : Sleep called
+I, [2015-03-05T11:30:14.856190 #4968]  INFO -- : Verified that item2 price exist
+I, [2015-03-05T11:30:16.856304 #4968]  INFO -- : Sleep called
+I, [2015-03-05T11:30:22.138607 #4968]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:33:19.152731 #5868]  INFO -- : 
+I, [2015-03-05T11:33:27.410204 #5868]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T11:33:28.424262 #5868]  INFO -- : Sign-in clicked
+I, [2015-03-05T11:33:28.795283 #5868]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T11:33:31.500438 #5868]  INFO -- : The search button was clicked
+I, [2015-03-05T11:33:33.501552 #5868]  INFO -- : Sleep called
+I, [2015-03-05T11:33:38.812856 #5868]  INFO -- : Browser was closed successfully
+I, [2015-03-05T11:36:00.981987 #3704]  INFO -- : 
+I, [2015-03-05T11:36:09.001446 #3704]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T11:36:10.001503 #3704]  INFO -- : Sign-in clicked
+I, [2015-03-05T11:36:10.328522 #3704]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T11:36:11.968616 #3704]  INFO -- : The search button was clicked
+I, [2015-03-05T11:36:13.968730 #3704]  INFO -- : Sleep called
+I, [2015-03-05T11:36:14.053735 #3704]  INFO -- : verified that item1 exist
+I, [2015-03-05T11:36:14.111738 #3704]  INFO -- : verified that item1 price exist
+I, [2015-03-05T11:36:16.111853 #3704]  INFO -- : Sleep was called
+I, [2015-03-05T11:36:16.219859 #3704]  INFO -- : verified that item1 exist
+I, [2015-03-05T11:36:16.277862 #3704]  INFO -- : verified that item1 price exist
+I, [2015-03-05T11:36:18.277977 #3704]  INFO -- : Sleep was called
+I, [2015-03-05T11:36:23.672285 #3704]  INFO -- : Browser was closed successfully
+I, [2015-03-05T15:46:39.285129 #440]  INFO -- : 
+I, [2015-03-05T15:46:45.809502 #440]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T15:46:46.863563 #440]  INFO -- : Sign-in clicked
+I, [2015-03-05T15:46:47.223583 #440]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T15:46:49.765729 #440]  INFO -- : The search button was clicked
+I, [2015-03-05T15:46:51.765843 #440]  INFO -- : Sleep called
+I, [2015-03-05T15:46:51.837847 #440]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:46:51.895850 #440]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:46:53.895965 #440]  INFO -- : Sleep was called
+I, [2015-03-05T15:46:54.009971 #440]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:46:54.083976 #440]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:46:56.084090 #440]  INFO -- : Sleep was called
+I, [2015-03-05T15:47:01.302388 #440]  INFO -- : Browser was closed successfully
+I, [2015-03-05T15:47:24.196698 #5040]  INFO -- : 
+I, [2015-03-05T15:47:31.944141 #5040]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T15:47:32.980200 #5040]  INFO -- : Sign-in clicked
+I, [2015-03-05T15:47:33.330220 #5040]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T15:47:34.830306 #5040]  INFO -- : The search button was clicked
+I, [2015-03-05T15:47:36.831421 #5040]  INFO -- : Sleep called
+I, [2015-03-05T15:47:36.917425 #5040]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:47:37.011431 #5040]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:47:39.011545 #5040]  INFO -- : Sleep was called
+I, [2015-03-05T15:47:39.112551 #5040]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:47:39.170554 #5040]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:47:41.170669 #5040]  INFO -- : Sleep was called
+I, [2015-03-05T15:47:46.504974 #5040]  INFO -- : Browser was closed successfully
+I, [2015-03-05T15:48:13.321508 #640]  INFO -- : 
+I, [2015-03-05T15:48:20.715931 #640]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T15:48:21.765991 #640]  INFO -- : Sign-in clicked
+I, [2015-03-05T15:48:22.101010 #640]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T15:48:23.891112 #640]  INFO -- : The search button was clicked
+I, [2015-03-05T15:48:25.891227 #640]  INFO -- : Sleep called
+I, [2015-03-05T15:48:25.965231 #640]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:48:26.024234 #640]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:48:28.024349 #640]  INFO -- : Sleep was called
+I, [2015-03-05T15:48:28.128355 #640]  INFO -- : verified that item1 exist
+I, [2015-03-05T15:48:28.184358 #640]  INFO -- : verified that item1 price exist
+I, [2015-03-05T15:48:30.184472 #640]  INFO -- : Sleep was called
+I, [2015-03-05T15:48:35.532778 #640]  INFO -- : Browser was closed successfully
+I, [2015-03-05T15:48:38.951974 #640]  INFO -- : 
+I, [2015-03-05T15:48:46.072381 #640]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T15:48:47.334453 #640]  INFO -- : Sign-in clicked
+I, [2015-03-05T15:48:47.694474 #640]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T15:48:49.138556 #640]  INFO -- : The search button was clicked
+I, [2015-03-05T15:48:51.138671 #640]  INFO -- : Sleep called
+I, [2015-03-05T15:48:51.222675 #640]  INFO -- : Verified that item2 name exist
+I, [2015-03-05T15:48:53.222790 #640]  INFO -- : Sleep called
+I, [2015-03-05T15:48:53.309795 #640]  INFO -- : Verified that item2 price exist
+I, [2015-03-05T15:48:55.320910 #640]  INFO -- : Sleep called
+I, [2015-03-05T15:49:00.613213 #640]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:09:01.513900 #1928]  INFO -- : 
+I, [2015-03-05T16:09:08.907323 #1928]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:09:09.988385 #1928]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:09:15.373693 #1928]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:15:59.453805 #3860]  INFO -- : 
+I, [2015-03-05T16:16:04.662103 #3860]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:17:27.179823 #5248]  INFO -- : 
+I, [2015-03-05T16:17:32.477126 #5248]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:29:48.065199 #2912]  INFO -- : 
+I, [2015-03-05T16:29:56.630689 #2912]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:29:57.709750 #2912]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:30:03.016054 #2912]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:31:29.913024 #6008]  INFO -- : 
+I, [2015-03-05T16:31:42.589749 #6008]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:31:44.189841 #6008]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:31:49.713157 #6008]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:37:47.893643 #5940]  INFO -- : 
+I, [2015-03-05T16:37:56.934161 #5940]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:37:58.322240 #5940]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:38:03.642544 #5940]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:38:33.041226 #2552]  INFO -- : 
+I, [2015-03-05T16:38:40.165633 #2552]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:38:41.538712 #2552]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:38:49.956193 #2552]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:43:52.118476 #1336]  INFO -- : 
+I, [2015-03-05T16:44:00.230940 #1336]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:44:01.373005 #1336]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:44:11.733598 #1336]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:49:43.878595 #364]  INFO -- : 
+I, [2015-03-05T16:49:51.825050 #364]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:49:52.874110 #364]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:50:00.754561 #364]  INFO -- : Browser was closed successfully
+I, [2015-03-05T16:53:36.368893 #5164]  INFO -- : 
+I, [2015-03-05T16:53:43.792318 #5164]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T16:53:44.870379 #5164]  INFO -- : Sign-in clicked
+I, [2015-03-05T16:53:56.064020 #5164]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:13:21.593684 #4200]  INFO -- : 
+I, [2015-03-05T17:13:30.926218 #4200]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:13:32.275295 #4200]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:13:44.474993 #4200]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:15:50.746215 #5856]  INFO -- : 
+I, [2015-03-05T17:15:57.681612 #5856]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:15:58.970686 #5856]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:16:10.835364 #5856]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:22:03.784552 #5784]  INFO -- : 
+I, [2015-03-05T17:22:14.617171 #5784]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:22:16.202262 #5784]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:22:22.757637 #5784]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:22:26.119829 #5784]  INFO -- : Clicked on Toshiba plasma tv brand
+I, [2015-03-05T17:22:28.119944 #5784]  INFO -- : Sleep called
+I, [2015-03-05T17:22:33.464249 #5784]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:24:14.222012 #5808]  INFO -- : 
+I, [2015-03-05T17:24:23.695554 #5808]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:24:25.241643 #5808]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:24:31.835020 #5808]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:24:34.595178 #5808]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:24:36.595292 #5808]  INFO -- : Sleep called
+I, [2015-03-05T17:24:42.111608 #5808]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:34:21.634754 #3156]  INFO -- : 
+I, [2015-03-05T17:34:40.112811 #3156]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:34:41.766906 #3156]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:34:57.202789 #3156]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:35:02.821110 #3156]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:35:04.821224 #3156]  INFO -- : Sleep called
+I, [2015-03-05T17:35:10.588554 #3156]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:37:03.517013 #5912]  INFO -- : 
+I, [2015-03-05T17:37:18.922895 #5912]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:37:21.511043 #5912]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:37:44.569362 #5912]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:37:44.903381 #5912]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:37:46.903495 #5912]  INFO -- : Sleep called
+I, [2015-03-05T17:38:07.252659 #5912]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:40:04.687376 #6304]  INFO -- : 
+I, [2015-03-05T17:40:13.246865 #6304]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:40:14.558940 #6304]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:40:21.773353 #6304]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:40:24.767524 #6304]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:40:26.767639 #6304]  INFO -- : Sleep called
+I, [2015-03-05T17:40:46.974795 #6304]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:44:02.444975 #3772]  INFO -- : 
+I, [2015-03-05T17:44:09.384372 #3772]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:44:10.804453 #3772]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:44:17.396830 #3772]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:44:22.094099 #3772]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:44:24.095213 #3772]  INFO -- : Sleep called
+I, [2015-03-05T17:44:29.931547 #3772]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:50:12.264127 #4208]  INFO -- : 
+I, [2015-03-05T17:50:21.121634 #4208]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:50:22.426709 #4208]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:50:29.216097 #4208]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:50:32.333275 #4208]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:50:34.333390 #4208]  INFO -- : Sleep called
+I, [2015-03-05T17:50:34.710411 #4208]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T17:50:40.073718 #4208]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:53:14.974578 #6140]  INFO -- : 
+I, [2015-03-05T17:53:28.243337 #6140]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:53:29.655417 #6140]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:53:39.728994 #6140]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:53:43.758224 #6140]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:53:45.760339 #6140]  INFO -- : Sleep called
+I, [2015-03-05T17:53:46.157361 #6140]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T17:53:51.607673 #6140]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:54:55.369320 #5136]  INFO -- : 
+I, [2015-03-05T17:55:02.974755 #5136]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:55:04.397836 #5136]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:55:11.273230 #5136]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:55:15.144451 #5136]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:55:17.145565 #5136]  INFO -- : Sleep called
+I, [2015-03-05T17:55:17.484585 #5136]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T17:55:22.904895 #5136]  INFO -- : Browser was closed successfully
+I, [2015-03-05T17:58:00.679919 #2748]  INFO -- : 
+I, [2015-03-05T17:58:12.063570 #2748]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T17:58:14.850730 #2748]  INFO -- : Sign-in clicked
+I, [2015-03-05T17:58:25.252325 #2748]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T17:58:28.750525 #2748]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T17:58:30.750639 #2748]  INFO -- : Sleep called
+I, [2015-03-05T17:58:31.102659 #2748]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T17:58:36.403962 #2748]  INFO -- : Browser was closed successfully
+I, [2015-03-05T18:10:26.235562 #3416]  INFO -- : 
+I, [2015-03-05T18:10:34.856056 #3416]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T18:10:36.156130 #3416]  INFO -- : Sign-in clicked
+I, [2015-03-05T18:10:43.327540 #3416]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T18:10:46.286709 #3416]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T18:10:48.286824 #3416]  INFO -- : Sleep called
+I, [2015-03-05T18:10:48.615843 #3416]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T18:10:48.983864 #3416]  INFO -- : Clicked on submit
+I, [2015-03-05T18:10:54.501179 #3416]  INFO -- : Browser was closed successfully
+I, [2015-03-05T18:26:43.791475 #6412]  INFO -- : 
+I, [2015-03-05T18:26:51.750931 #6412]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T18:26:53.019003 #6412]  INFO -- : Sign-in clicked
+I, [2015-03-05T18:26:59.188356 #6412]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T18:27:01.970515 #6412]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T18:27:03.970630 #6412]  INFO -- : Sleep called
+I, [2015-03-05T18:27:04.280647 #6412]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T18:27:04.628667 #6412]  INFO -- : Clicked on submit
+I, [2015-03-05T18:27:05.037691 #6412]  INFO -- : Customer's name entered correctly
+I, [2015-03-05T18:27:05.581722 #6412]  INFO -- : Customer's phone number entered correctly
+I, [2015-03-05T18:27:06.291762 #6412]  INFO -- : Customer's email entered correctly
+I, [2015-03-05T18:27:11.492060 #6412]  INFO -- : Browser was closed successfully
+I, [2015-03-05T18:29:02.346400 #6856]  INFO -- : 
+I, [2015-03-05T18:29:10.257853 #6856]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T18:29:12.548984 #6856]  INFO -- : Sign-in clicked
+I, [2015-03-05T18:29:19.556385 #6856]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T18:29:22.263540 #6856]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T18:29:24.263654 #6856]  INFO -- : Sleep called
+I, [2015-03-05T18:29:24.617674 #6856]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T18:29:25.322714 #6856]  INFO -- : Clicked on submit
+I, [2015-03-05T18:29:26.031755 #6856]  INFO -- : Customer's name entered correctly
+I, [2015-03-05T18:29:26.428778 #6856]  INFO -- : Customer's phone number entered correctly
+I, [2015-03-05T18:29:27.367831 #6856]  INFO -- : Customer's email entered correctly
+I, [2015-03-05T18:29:32.739139 #6856]  INFO -- : Browser was closed successfully
+I, [2015-03-05T18:32:24.036936 #6564]  INFO -- : 
+I, [2015-03-05T18:32:31.560367 #6564]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T18:32:32.798437 #6564]  INFO -- : Sign-in clicked
+I, [2015-03-05T18:32:39.116799 #6564]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T18:32:43.683060 #6564]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T18:32:45.683174 #6564]  INFO -- : Sleep called
+I, [2015-03-05T18:32:46.035195 #6564]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T18:32:46.334212 #6564]  INFO -- : Clicked on submit
+I, [2015-03-05T18:32:46.792238 #6564]  INFO -- : Customer's name entered correctly
+I, [2015-03-05T18:32:47.238263 #6564]  INFO -- : Customer's phone number entered correctly
+I, [2015-03-05T18:32:49.238378 #6564]  INFO -- : Sleep called
+I, [2015-03-05T18:32:49.885415 #6564]  INFO -- : Customer's email entered correctly
+I, [2015-03-05T18:32:55.245721 #6564]  INFO -- : Browser was closed successfully
+I, [2015-03-05T18:35:04.013086 #1256]  INFO -- : 
+I, [2015-03-05T18:35:11.412510 #1256]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T18:35:13.105607 #1256]  INFO -- : Sign-in clicked
+I, [2015-03-05T18:35:19.775988 #1256]  INFO -- : Clicked on Toshiba brand
+I, [2015-03-05T18:35:22.513145 #1256]  INFO -- : Clicked on Toshiba 32C120U 32 Class 720P HD LCD TV
+I, [2015-03-05T18:35:24.516259 #1256]  INFO -- : Sleep called
+I, [2015-03-05T18:35:24.820277 #1256]  INFO -- : Added item to cart via buy now with 1 click
+I, [2015-03-05T18:35:25.164296 #1256]  INFO -- : Clicked on submit
+I, [2015-03-05T18:35:25.957342 #1256]  INFO -- : Customer's name entered correctly
+I, [2015-03-05T18:35:26.328363 #1256]  INFO -- : Customer's phone number entered correctly
+I, [2015-03-05T18:35:28.328477 #1256]  INFO -- : Sleep called
+I, [2015-03-05T18:35:28.973514 #1256]  INFO -- : Customer's email entered correctly
+I, [2015-03-05T18:35:29.212528 #1256]  INFO -- : Clicked on submit button
+I, [2015-03-05T18:35:34.565834 #1256]  INFO -- : Browser was closed successfully
+I, [2015-03-05T19:59:37.476482 #6092]  INFO -- : 
+I, [2015-03-05T19:59:45.116919 #6092]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T19:59:46.620005 #6092]  INFO -- : Sign-in clicked
+I, [2015-03-05T19:59:47.367047 #6092]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T19:59:50.075202 #6092]  INFO -- : The search button was clicked
+I, [2015-03-05T19:59:52.075317 #6092]  INFO -- : Sleep called
+I, [2015-03-05T19:59:52.156321 #6092]  INFO -- : verified that item1 exist
+I, [2015-03-05T19:59:52.229325 #6092]  INFO -- : verified that item1 price exist
+I, [2015-03-05T19:59:54.229440 #6092]  INFO -- : Sleep was called
+I, [2015-03-05T19:59:54.315445 #6092]  INFO -- : verified that item1 exist
+I, [2015-03-05T19:59:54.397449 #6092]  INFO -- : verified that item1 price exist
+I, [2015-03-05T19:59:56.403564 #6092]  INFO -- : Sleep was called
+I, [2015-03-05T20:00:01.676866 #6092]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:00:06.164122 #6092]  INFO -- : 
+I, [2015-03-05T20:00:14.630607 #6092]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:00:15.727669 #6092]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:00:16.317703 #6092]  INFO -- : Item2 was typed correctly in the search button
+I, [2015-03-05T20:00:18.090805 #6092]  INFO -- : The search button was clicked
+I, [2015-03-05T20:00:20.090919 #6092]  INFO -- : Sleep called
+I, [2015-03-05T20:00:20.164923 #6092]  INFO -- : Verified that item2 name exist
+I, [2015-03-05T20:00:22.168038 #6092]  INFO -- : Sleep called
+I, [2015-03-05T20:00:22.332047 #6092]  INFO -- : Verified that item2 price exist
+I, [2015-03-05T20:00:24.332162 #6092]  INFO -- : Sleep called
+I, [2015-03-05T20:00:29.507458 #6092]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:12:15.846858 #6504]  INFO -- : 
+I, [2015-03-05T20:12:21.126160 #6504]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:20:40.083699 #7056]  INFO -- : 
+I, [2015-03-05T20:20:48.489179 #7056]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:20:49.986265 #7056]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:20:51.193334 #7056]  INFO -- : Item1 was typed correctly on the search button
+I, [2015-03-05T20:20:53.450463 #7056]  INFO -- : The search button was clicked
+I, [2015-03-05T20:20:53.598472 #7056]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:20:53.679476 #7056]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:20:55.679591 #7056]  INFO -- : Sleep was called
+I, [2015-03-05T20:20:55.760595 #7056]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:20:55.818599 #7056]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:20:57.818713 #7056]  INFO -- : Sleep was called
+I, [2015-03-05T20:21:03.254024 #7056]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:32:17.109566 #5396]  INFO -- : 
+I, [2015-03-05T20:32:24.644997 #5396]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:32:26.398097 #5396]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:32:27.212144 #5396]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:32:29.843294 #5396]  INFO -- : The search button was clicked
+I, [2015-03-05T20:32:29.958301 #5396]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:32:30.031305 #5396]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:32:32.031420 #5396]  INFO -- : Sleep was called
+I, [2015-03-05T20:32:37.394726 #5396]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:33:35.986078 #1404]  INFO -- : 
+I, [2015-03-05T20:33:44.385558 #1404]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:33:45.713634 #1404]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:33:46.298667 #1404]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:33:47.895759 #1404]  INFO -- : The search button was clicked
+I, [2015-03-05T20:33:48.004765 #1404]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:33:48.101771 #1404]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:33:50.101885 #1404]  INFO -- : Sleep was called
+I, [2015-03-05T20:33:55.526195 #1404]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:40:01.946153 #3384]  INFO -- : 
+I, [2015-03-05T20:40:12.619764 #3384]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:40:13.995842 #3384]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:40:14.535873 #3384]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:40:16.000957 #3384]  INFO -- : The search button was clicked
+I, [2015-03-05T20:40:21.386265 #3384]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:42:08.151372 #3548]  INFO -- : 
+I, [2015-03-05T20:42:18.325954 #3548]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:42:19.788037 #3548]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:42:20.328068 #3548]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:42:21.749150 #3548]  INFO -- : The search button was clicked
+I, [2015-03-05T20:42:21.856156 #3548]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:42:21.951161 #3548]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:42:23.951276 #3548]  INFO -- : Sleep was called
+I, [2015-03-05T20:42:29.369585 #3548]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:52:54.369333 #5888]  INFO -- : 
+I, [2015-03-05T20:53:01.496741 #5888]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:53:03.014828 #5888]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:53:03.575860 #5888]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:53:05.092947 #5888]  INFO -- : The search button was clicked
+I, [2015-03-05T20:53:05.207953 #5888]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:53:05.271957 #5888]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:53:07.272071 #5888]  INFO -- : Sleep was called
+I, [2015-03-05T20:53:12.644379 #5888]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:53:15.934567 #5888]  INFO -- : 
+I, [2015-03-05T20:53:23.719012 #5888]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:53:25.091091 #5888]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:53:25.910137 #5888]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:53:27.262215 #5888]  INFO -- : The search button was clicked
+I, [2015-03-05T20:53:27.354220 #5888]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:53:27.417224 #5888]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:53:29.418338 #5888]  INFO -- : Sleep was called
+I, [2015-03-05T20:53:34.723642 #5888]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:53:38.442854 #5888]  INFO -- : 
+I, [2015-03-05T20:53:45.804275 #5888]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:53:47.285360 #5888]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:53:47.670382 #5888]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:53:50.138523 #5888]  INFO -- : The search button was clicked
+I, [2015-03-05T20:53:50.259530 #5888]  INFO -- : verified that item1 exist
+I, [2015-03-05T20:53:50.337535 #5888]  INFO -- : verified that item1 price exist
+I, [2015-03-05T20:53:52.337649 #5888]  INFO -- : Sleep was called
+I, [2015-03-05T20:53:57.693955 #5888]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:59:27.934844 #2176]  INFO -- : 
+I, [2015-03-05T20:59:35.723290 #2176]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:59:37.289379 #2176]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:59:37.913415 #2176]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T20:59:39.458503 #2176]  INFO -- : The search button was clicked
+I, [2015-03-05T20:59:39.564509 #2176]  INFO -- : verified that Item exist
+I, [2015-03-05T20:59:39.634513 #2176]  INFO -- : verified that valid amount exist
+I, [2015-03-05T20:59:41.634628 #2176]  INFO -- : Sleep was called
+I, [2015-03-05T20:59:46.877928 #2176]  INFO -- : Browser was closed successfully
+I, [2015-03-05T20:59:50.557138 #2176]  INFO -- : 
+I, [2015-03-05T20:59:57.967562 #2176]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T20:59:59.370642 #2176]  INFO -- : Sign-in clicked
+I, [2015-03-05T20:59:59.643658 #2176]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:00:01.593769 #2176]  INFO -- : The search button was clicked
+I, [2015-03-05T21:00:01.718776 #2176]  INFO -- : verified that Item exist
+I, [2015-03-05T21:00:01.797781 #2176]  INFO -- : verified that valid amount exist
+I, [2015-03-05T21:00:03.797895 #2176]  INFO -- : Sleep was called
+I, [2015-03-05T21:00:09.041195 #2176]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:00:12.288381 #2176]  INFO -- : 
+I, [2015-03-05T21:00:19.589799 #2176]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:00:20.948876 #2176]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:00:21.246893 #2176]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:00:23.503022 #2176]  INFO -- : The search button was clicked
+I, [2015-03-05T21:00:23.633030 #2176]  INFO -- : verified that Item exist
+I, [2015-03-05T21:00:23.702034 #2176]  INFO -- : verified that valid amount exist
+I, [2015-03-05T21:00:25.702148 #2176]  INFO -- : Sleep was called
+I, [2015-03-05T21:00:31.051454 #2176]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:09:51.343501 #1140]  INFO -- : 
+I, [2015-03-05T21:09:56.647804 #1140]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:22:48.757967 #1748]  INFO -- : 
+I, [2015-03-05T21:22:58.153504 #1748]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:22:59.729594 #1748]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:23:00.392632 #1748]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:23:01.919719 #1748]  INFO -- : The search button was clicked
+I, [2015-03-05T21:23:02.064728 #1748]  INFO -- : Verified item
+I, [2015-03-05T21:23:05.825943 #1748]  INFO -- : Clicked item
+I, [2015-03-05T21:23:26.249111 #1748]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:26:10.279493 #4916]  INFO -- : 
+I, [2015-03-05T21:26:24.918330 #4916]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:26:26.688431 #4916]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:26:27.192460 #4916]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:26:30.676660 #4916]  INFO -- : The search button was clicked
+I, [2015-03-05T21:26:30.788666 #4916]  INFO -- : Verified item
+I, [2015-03-05T21:26:39.222148 #4916]  INFO -- : Clicked item
+I, [2015-03-05T21:26:59.783324 #4916]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:43:27.867840 #884]  INFO -- : 
+I, [2015-03-05T21:43:39.211488 #884]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:43:40.684573 #884]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:43:41.626627 #884]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:43:44.482790 #884]  INFO -- : The search button was clicked
+I, [2015-03-05T21:43:44.612797 #884]  INFO -- : Verified item
+I, [2015-03-05T21:43:48.776035 #884]  INFO -- : Clicked item
+I, [2015-03-05T21:44:09.350212 #884]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:46:34.652523 #6268]  INFO -- : 
+I, [2015-03-05T21:46:44.934111 #6268]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:46:46.362193 #6268]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:46:47.037231 #6268]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:46:48.867336 #6268]  INFO -- : The search button was clicked
+I, [2015-03-05T21:46:48.971342 #6268]  INFO -- : Verified item
+I, [2015-03-05T21:46:53.120579 #6268]  INFO -- : Clicked item
+I, [2015-03-05T21:47:09.039490 #6268]  INFO -- : Dock opened for checking carting
+I, [2015-03-05T21:47:14.379795 #6268]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:51:32.406554 #6796]  INFO -- : 
+I, [2015-03-05T21:51:41.330064 #6796]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:51:42.893153 #6796]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:51:43.478187 #6796]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:51:45.030276 #6796]  INFO -- : The search button was clicked
+I, [2015-03-05T21:51:45.124281 #6796]  INFO -- : Verified item
+I, [2015-03-05T21:51:50.178570 #6796]  INFO -- : Clicked item
+I, [2015-03-05T21:52:10.851753 #6796]  INFO -- : Browser was closed successfully
+I, [2015-03-05T21:53:22.119829 #7096]  INFO -- : 
+I, [2015-03-05T21:53:30.224292 #7096]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-05T21:53:31.668375 #7096]  INFO -- : Sign-in clicked
+I, [2015-03-05T21:53:32.339413 #7096]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-05T21:53:33.779496 #7096]  INFO -- : The search button was clicked
+I, [2015-03-05T21:53:33.956506 #7096]  INFO -- : Verified item
+I, [2015-03-05T21:53:37.658718 #7096]  INFO -- : Clicked item
+I, [2015-03-05T21:53:58.294898 #7096]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:12:20.408988 #2284]  INFO -- : 
+I, [2015-03-06T19:12:30.937590 #2284]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:12:32.218663 #2284]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:12:32.540682 #2284]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:12:35.191833 #2284]  INFO -- : The search button was clicked
+I, [2015-03-06T19:12:35.261837 #2284]  INFO -- : Verified item
+I, [2015-03-06T19:12:41.320184 #2284]  INFO -- : Clicked item
+I, [2015-03-06T19:13:01.807355 #2284]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:15:05.722429 #5808]  INFO -- : 
+I, [2015-03-06T19:15:15.368981 #5808]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:15:16.362037 #5808]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:15:16.744059 #5808]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:15:18.413155 #5808]  INFO -- : The search button was clicked
+I, [2015-03-06T19:15:18.487159 #5808]  INFO -- : verified that Item exist
+I, [2015-03-06T19:15:18.545162 #5808]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:15:20.545277 #5808]  INFO -- : Sleep was called
+I, [2015-03-06T19:15:25.894583 #5808]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:16:53.056419 #4796]  INFO -- : 
+I, [2015-03-06T19:17:03.508017 #4796]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:17:04.852094 #4796]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:17:05.200114 #4796]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:17:07.266232 #4796]  INFO -- : The search button was clicked
+I, [2015-03-06T19:17:07.340236 #4796]  INFO -- : verified that Item exist
+I, [2015-03-06T19:17:07.392239 #4796]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:17:09.393353 #4796]  INFO -- : Sleep was called
+I, [2015-03-06T19:17:14.598651 #4796]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:17:17.898840 #4796]  INFO -- : 
+I, [2015-03-06T19:17:25.632282 #4796]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:17:26.907355 #4796]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:17:27.092366 #4796]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:17:28.980474 #4796]  INFO -- : The search button was clicked
+I, [2015-03-06T19:17:29.068479 #4796]  INFO -- : verified that Item exist
+I, [2015-03-06T19:17:29.124482 #4796]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:17:31.125596 #4796]  INFO -- : Sleep was called
+I, [2015-03-06T19:17:36.414899 #4796]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:17:39.352067 #4796]  INFO -- : 
+I, [2015-03-06T19:17:49.627655 #4796]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:17:50.629712 #4796]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:17:50.856725 #4796]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:17:53.958902 #4796]  INFO -- : The search button was clicked
+I, [2015-03-06T19:17:54.044907 #4796]  INFO -- : verified that Item exist
+I, [2015-03-06T19:17:54.101911 #4796]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:17:56.102025 #4796]  INFO -- : Sleep was called
+I, [2015-03-06T19:18:01.300318 #4796]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:27:02.884050 #812]  INFO -- : 
+I, [2015-03-06T19:27:18.556946 #812]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:27:20.816075 #812]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:27:21.077090 #812]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:27:24.114264 #812]  INFO -- : The search button was clicked
+I, [2015-03-06T19:27:24.197269 #812]  INFO -- : verified that Item exist
+I, [2015-03-06T19:27:24.256272 #812]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:27:26.256386 #812]  INFO -- : Sleep was called
+I, [2015-03-06T19:27:31.572690 #812]  INFO -- : Browser was closed successfully
+I, [2015-03-06T19:28:47.524035 #5608]  INFO -- : 
+I, [2015-03-06T19:28:56.572552 #5608]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T19:28:57.621612 #5608]  INFO -- : Sign-in clicked
+I, [2015-03-06T19:28:57.868626 #5608]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T19:29:01.062809 #5608]  INFO -- : The search button was clicked
+I, [2015-03-06T19:29:01.140813 #5608]  INFO -- : verified that Item exist
+I, [2015-03-06T19:29:01.198817 #5608]  INFO -- : verified that valid amount exist
+I, [2015-03-06T19:29:03.198931 #5608]  INFO -- : Sleep was called
+I, [2015-03-06T19:29:08.521236 #5608]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:17:06.274834 #1384]  INFO -- : 
+I, [2015-03-06T20:17:17.215459 #1384]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:17:18.908556 #1384]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:17:19.562594 #1384]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:17:22.166743 #1384]  INFO -- : The search button was clicked
+I, [2015-03-06T20:17:22.267748 #1384]  INFO -- : verified that Item exist
+I, [2015-03-06T20:17:22.337752 #1384]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:17:24.337867 #1384]  INFO -- : Sleep was called
+I, [2015-03-06T20:17:29.727175 #1384]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:17:33.530393 #1384]  INFO -- : 
+I, [2015-03-06T20:17:41.600854 #1384]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:17:43.009935 #1384]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:17:43.579967 #1384]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:17:45.880099 #1384]  INFO -- : The search button was clicked
+I, [2015-03-06T20:17:45.996106 #1384]  INFO -- : verified that Item exist
+I, [2015-03-06T20:17:46.099112 #1384]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:17:48.099226 #1384]  INFO -- : Sleep was called
+I, [2015-03-06T20:17:53.385528 #1384]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:17:57.606770 #1384]  INFO -- : 
+I, [2015-03-06T20:18:06.176260 #1384]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:18:07.502336 #1384]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:18:08.021365 #1384]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:18:10.265494 #1384]  INFO -- : The search button was clicked
+I, [2015-03-06T20:18:10.381500 #1384]  INFO -- : verified that Item exist
+I, [2015-03-06T20:18:10.474506 #1384]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:18:12.475620 #1384]  INFO -- : Sleep was called
+I, [2015-03-06T20:18:17.791924 #1384]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:18:21.457134 #1384]  INFO -- : 
+I, [2015-03-06T20:18:28.729550 #1384]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:18:30.391645 #1384]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:18:30.879673 #1384]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:18:34.010852 #1384]  INFO -- : The search button was clicked
+I, [2015-03-06T20:18:34.112858 #1384]  INFO -- : verified that Item exist
+I, [2015-03-06T20:18:34.224864 #1384]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:18:36.224979 #1384]  INFO -- : Sleep was called
+I, [2015-03-06T20:18:41.643288 #1384]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:24:18.812573 #4380]  INFO -- : 
+I, [2015-03-06T20:24:27.882092 #4380]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:24:29.315174 #4380]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:24:30.323232 #4380]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:24:32.658365 #4380]  INFO -- : The search button was clicked
+I, [2015-03-06T20:24:32.800373 #4380]  INFO -- : verified that Item exist
+I, [2015-03-06T20:24:32.867377 #4380]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:24:34.867492 #4380]  INFO -- : Sleep was called
+I, [2015-03-06T20:24:40.072789 #4380]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:24:44.223027 #4380]  INFO -- : 
+I, [2015-03-06T20:24:53.229542 #4380]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:24:54.567619 #4380]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:24:55.180654 #4380]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:24:57.010758 #4380]  INFO -- : The search button was clicked
+I, [2015-03-06T20:24:57.134765 #4380]  INFO -- : verified that Item exist
+I, [2015-03-06T20:24:57.255772 #4380]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:24:59.259887 #4380]  INFO -- : Sleep was called
+I, [2015-03-06T20:25:04.679197 #4380]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:25:08.655424 #4380]  INFO -- : 
+I, [2015-03-06T20:25:16.212857 #4380]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:25:20.441098 #4380]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:25:20.789118 #4380]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:25:25.066363 #4380]  INFO -- : The search button was clicked
+I, [2015-03-06T20:25:25.171369 #4380]  INFO -- : verified that Item exist
+I, [2015-03-06T20:25:25.245373 #4380]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:25:27.245488 #4380]  INFO -- : Sleep was called
+I, [2015-03-06T20:25:32.642796 #4380]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:25:36.389011 #4380]  INFO -- : 
+I, [2015-03-06T20:25:45.960558 #4380]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:25:47.483645 #4380]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:25:48.093680 #4380]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T20:25:50.778834 #4380]  INFO -- : The search button was clicked
+I, [2015-03-06T20:25:50.926842 #4380]  INFO -- : verified that Item exist
+I, [2015-03-06T20:25:51.048849 #4380]  INFO -- : verified that valid amount exist
+I, [2015-03-06T20:25:53.048963 #4380]  INFO -- : Sleep was called
+I, [2015-03-06T20:25:58.459273 #4380]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:39:52.515978 #4696]  INFO -- : 
+I, [2015-03-06T20:39:57.959290 #4696]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:52:52.588596 #1332]  INFO -- : 
+I, [2015-03-06T20:53:03.761235 #1332]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:53:05.257320 #1332]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:53:13.707804 #1332]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:54:03.611658 #5080]  INFO -- : 
+I, [2015-03-06T20:54:13.773239 #5080]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:54:15.092315 #5080]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:54:34.173406 #5080]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:54:55.201609 #3636]  INFO -- : 
+I, [2015-03-06T20:55:05.357190 #3636]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:55:07.105290 #3636]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:55:25.940367 #3636]  INFO -- : Browser was closed successfully
+I, [2015-03-06T20:57:33.133642 #3980]  INFO -- : 
+I, [2015-03-06T20:57:41.333111 #3980]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T20:57:42.790194 #3980]  INFO -- : Sign-in clicked
+I, [2015-03-06T20:58:02.101299 #3980]  INFO -- : Browser was closed successfully
+I, [2015-03-06T21:11:35.899846 #5076]  INFO -- : 
+I, [2015-03-06T21:11:46.178433 #5076]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T21:11:47.657518 #5076]  INFO -- : Sign-in clicked
+I, [2015-03-06T21:11:48.331557 #5076]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T21:11:51.152718 #5076]  INFO -- : The search button was clicked
+I, [2015-03-06T21:11:51.226722 #5076]  INFO -- : Verified item exist
+I, [2015-03-06T21:12:02.357359 #5076]  INFO -- : Clicked item to cart
+I, [2015-03-06T21:12:22.796528 #5076]  INFO -- : Browser was closed successfully
+I, [2015-03-06T21:22:28.472171 #5912]  INFO -- : 
+I, [2015-03-06T21:22:38.988772 #5912]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T21:22:40.638866 #5912]  INFO -- : Sign-in clicked
+I, [2015-03-06T21:22:41.601922 #5912]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T21:22:44.013059 #5912]  INFO -- : The search button was clicked
+I, [2015-03-06T21:22:44.198070 #5912]  INFO -- : Verified item exist
+I, [2015-03-06T21:22:48.558319 #5912]  INFO -- : Clicked item to cart
+I, [2015-03-06T21:23:04.099208 #5912]  INFO -- : Dock opened for checking carting
+I, [2015-03-06T21:23:09.508518 #5912]  INFO -- : Browser was closed successfully
+I, [2015-03-06T21:27:43.474188 #2512]  INFO -- : 
+I, [2015-03-06T21:27:52.903727 #2512]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T21:27:54.485817 #2512]  INFO -- : Sign-in clicked
+I, [2015-03-06T21:27:55.389869 #2512]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T21:27:57.220974 #2512]  INFO -- : The search button was clicked
+I, [2015-03-06T21:27:57.327980 #2512]  INFO -- : Verified item exist
+I, [2015-03-06T21:28:02.129255 #2512]  INFO -- : Clicked item to cart
+I, [2015-03-06T21:28:17.451131 #2512]  INFO -- : Waited for it
+I, [2015-03-06T21:28:17.613140 #2512]  INFO -- : Dock opened for checking carting
+I, [2015-03-06T21:28:23.217461 #2512]  INFO -- : Browser was closed successfully
+I, [2015-03-06T21:30:58.256329 #3424]  INFO -- : 
+I, [2015-03-06T21:31:07.082833 #3424]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T21:31:08.816933 #3424]  INFO -- : Sign-in clicked
+I, [2015-03-06T21:31:09.798989 #3424]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T21:31:11.531088 #3424]  INFO -- : The search button was clicked
+I, [2015-03-06T21:31:11.642094 #3424]  INFO -- : Verified item exist
+I, [2015-03-06T21:31:18.191469 #3424]  INFO -- : Clicked item to cart
+I, [2015-03-06T21:31:33.530346 #3424]  INFO -- : Waited for it
+I, [2015-03-06T21:31:33.684355 #3424]  INFO -- : Dock opened for checking carting
+I, [2015-03-06T21:31:39.170669 #3424]  INFO -- : Browser was closed successfully
+I, [2015-03-06T21:32:45.258449 #5804]  INFO -- : 
+I, [2015-03-06T21:32:56.123070 #5804]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-06T21:32:58.044180 #5804]  INFO -- : Sign-in clicked
+I, [2015-03-06T21:32:58.680216 #5804]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-06T21:33:01.798395 #5804]  INFO -- : The search button was clicked
+I, [2015-03-06T21:33:01.913401 #5804]  INFO -- : Verified item exist
+I, [2015-03-06T21:33:09.533837 #5804]  INFO -- : Clicked item to cart
+I, [2015-03-06T21:33:24.921717 #5804]  INFO -- : Waited for it
+I, [2015-03-06T21:33:30.093013 #5804]  INFO -- : Dock opened for checking carting
+I, [2015-03-06T21:33:35.661332 #5804]  INFO -- : Browser was closed successfully

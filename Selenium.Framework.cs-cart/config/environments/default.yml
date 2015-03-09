@@ -1,0 +1,13 @@
+#Homepage
+base_url: http://demo.cs-cart.com/
+
+#Valid login details
+valid_username: customer@example.com
+valid_password: customer
+
+
+
+#Customer details
+customer_name: John Hill
+customer_email: engeeforever@yahoo.co.uk
+customer_phone_number: 07788825140

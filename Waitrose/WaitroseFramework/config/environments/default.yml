@@ -1,0 +1,21 @@
+#Homepage
+dev_url: http://www.lufthansa.com/uk/en/Homepage/dev
+
+stage_url: http://www.lufthansa.com/uk/en/Homepage/staging
+
+
+production_url: http://www.lufthansa.com/uk/en/Homepage
+
+testing_url1: http://www.ags125a04.scotland.gov.uk
+
+testing_url2: http://www.ags126a04.scotland.gov.uk
+
+testting_url3: http://www.ags127a04.scotland.gov.uk
+
+
+#User Login Details
+valid_login_username: johnhill123
+valid_login_password: password123
+
+#Travel Location
+holiday_location: Brazil
