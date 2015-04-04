@@ -12,3 +12,9 @@ end
 Then(/^I should be able to click on the sub page$/) do
 
 end
+
+
+When(/^I select sports & outdoors$/) do
+  mouse_over_page.select_sports_and_outdoors
+
+end

@@ -1675,3 +1675,176 @@ I, [2015-03-06T21:33:09.533837 #5804]  INFO -- : Clicked item to cart
 I, [2015-03-06T21:33:24.921717 #5804]  INFO -- : Waited for it
 I, [2015-03-06T21:33:30.093013 #5804]  INFO -- : Dock opened for checking carting
 I, [2015-03-06T21:33:35.661332 #5804]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:27:26.406628 #5356]  INFO -- : 
+I, [2015-03-10T14:27:33.841054 #5356]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:27:35.562152 #5356]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:27:35.881170 #5356]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:27:37.363255 #5356]  INFO -- : The search button was clicked
+I, [2015-03-10T14:27:37.442260 #5356]  INFO -- : Verified item exist
+I, [2015-03-10T14:27:40.418430 #5356]  INFO -- : Clicked item to cart
+I, [2015-03-10T14:28:04.757822 #5356]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:28:10.051125 #5356]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:37:02.186561 #6080]  INFO -- : 
+I, [2015-03-10T14:37:10.083013 #6080]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:37:11.159074 #6080]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:37:11.489093 #6080]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:37:12.876172 #6080]  INFO -- : The search button was clicked
+I, [2015-03-10T14:37:12.971178 #6080]  INFO -- : Verified item exist
+I, [2015-03-10T14:37:37.216565 #6080]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:37:42.491866 #6080]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:42:40.087888 #5552]  INFO -- : 
+I, [2015-03-10T14:42:47.071287 #5552]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:42:48.067344 #5552]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:42:48.418364 #5552]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:42:49.775442 #5552]  INFO -- : The search button was clicked
+I, [2015-03-10T14:42:49.858447 #5552]  INFO -- : Verified item exist
+I, [2015-03-10T14:43:14.134835 #5552]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:43:19.346133 #5552]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:46:48.766111 #1908]  INFO -- : 
+I, [2015-03-10T14:46:57.193594 #1908]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:46:58.234653 #1908]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:46:58.562672 #1908]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:46:59.786742 #1908]  INFO -- : The search button was clicked
+I, [2015-03-10T14:46:59.866746 #1908]  INFO -- : Verified item exist
+I, [2015-03-10T14:47:24.090132 #1908]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:47:29.460439 #1908]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:50:00.183060 #5948]  INFO -- : 
+I, [2015-03-10T14:50:07.301467 #5948]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:50:08.286523 #5948]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:50:08.592541 #5948]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:50:09.842612 #5948]  INFO -- : The search button was clicked
+I, [2015-03-10T14:50:09.924617 #5948]  INFO -- : Verified item exist
+I, [2015-03-10T14:50:12.932789 #5948]  INFO -- : Clicked item to cart
+I, [2015-03-10T14:50:37.260181 #5948]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:50:42.552483 #5948]  INFO -- : Browser was closed successfully
+I, [2015-03-10T14:51:00.370502 #484]  INFO -- : 
+I, [2015-03-10T14:51:08.233952 #484]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T14:51:09.340015 #484]  INFO -- : Sign-in clicked
+I, [2015-03-10T14:51:09.675035 #484]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-10T14:51:11.066114 #484]  INFO -- : The search button was clicked
+I, [2015-03-10T14:51:11.152119 #484]  INFO -- : Verified item exist
+I, [2015-03-10T14:51:35.397506 #484]  INFO -- : Dock opened for checking carting
+I, [2015-03-10T14:51:40.695809 #484]  INFO -- : Browser was closed successfully
+I, [2015-03-10T16:09:22.934215 #1764]  INFO -- : 
+I, [2015-03-10T16:09:31.057679 #1764]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T16:09:32.064737 #1764]  INFO -- : Sign-in clicked
+I, [2015-03-10T16:09:50.504792 #1764]  INFO -- : Browser was closed successfully
+I, [2015-03-10T16:15:16.883460 #4680]  INFO -- : 
+I, [2015-03-10T16:15:24.123874 #4680]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T16:15:25.241938 #4680]  INFO -- : Sign-in clicked
+I, [2015-03-10T16:15:53.518555 #4680]  INFO -- : Browser was closed successfully
+I, [2015-03-10T16:26:18.431298 #3672]  INFO -- : 
+I, [2015-03-10T16:26:25.177684 #3672]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T16:26:26.148739 #3672]  INFO -- : Sign-in clicked
+I, [2015-03-10T16:26:31.423041 #3672]  INFO -- : Browser was closed successfully
+I, [2015-03-10T16:25:40.704140 #3672]  INFO -- : 
+I, [2015-03-10T16:25:47.335519 #3672]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T16:25:48.393580 #3672]  INFO -- : Sign-in clicked
+I, [2015-03-10T16:26:16.016160 #3672]  INFO -- : Browser was closed successfully
+I, [2015-03-10T17:01:29.558047 #5392]  INFO -- : 
+I, [2015-03-10T17:01:37.446499 #5392]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T17:01:38.430555 #5392]  INFO -- : Sign-in clicked
+I, [2015-03-10T17:02:03.975016 #5392]  INFO -- : Browser was closed successfully
+I, [2015-03-10T17:00:49.274743 #5392]  INFO -- : 
+I, [2015-03-10T17:00:58.104248 #5392]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T17:00:59.047302 #5392]  INFO -- : Sign-in clicked
+I, [2015-03-10T17:01:27.173911 #5392]  INFO -- : Browser was closed successfully
+I, [2015-03-10T17:12:07.084512 #3052]  INFO -- : 
+I, [2015-03-10T17:12:13.686890 #3052]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T17:12:14.710948 #3052]  INFO -- : Sign-in clicked
+I, [2015-03-10T17:12:14.763951 #3052]  INFO -- : Sports and outdoors selected
+I, [2015-03-10T17:12:14.795953 #3052]  INFO -- : Road bikes selected
+I, [2015-03-10T17:12:24.796525 #3052]  INFO -- : Sleep called
+I, [2015-03-10T17:12:24.941533 #3052]  INFO -- : Mouse over action on sports and road bikes
+I, [2015-03-10T17:12:34.942105 #3052]  INFO -- : Sleep called
+I, [2015-03-10T17:12:40.235408 #3052]  INFO -- : Browser was closed successfully
+I, [2015-03-10T17:11:26.252176 #3052]  INFO -- : 
+I, [2015-03-10T17:11:35.521707 #3052]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-10T17:11:36.472761 #3052]  INFO -- : Sign-in clicked
+I, [2015-03-10T17:12:04.666374 #3052]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:13:06.867553 #4232]  INFO -- : 
+I, [2015-03-11T19:13:14.174971 #4232]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:13:15.648055 #4232]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:13:16.086080 #4232]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:13:18.314208 #4232]  INFO -- : The search button was clicked
+I, [2015-03-11T19:13:18.488218 #4232]  INFO -- : verified that Item exist
+I, [2015-03-11T19:13:18.615225 #4232]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:13:20.618339 #4232]  INFO -- : Sleep was called
+I, [2015-03-11T19:13:26.047649 #4232]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:23:37.842881 #6036]  INFO -- : 
+I, [2015-03-11T19:23:46.427372 #6036]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:23:48.121469 #6036]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:23:48.636498 #6036]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:23:51.569666 #6036]  INFO -- : The search button was clicked
+I, [2015-03-11T19:23:56.896971 #6036]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:25:47.726445 #5928]  INFO -- : 
+I, [2015-03-11T19:25:55.142869 #5928]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:25:56.679957 #5928]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:25:57.477003 #5928]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:25:59.350110 #5928]  INFO -- : The search button was clicked
+I, [2015-03-11T19:25:59.472117 #5928]  INFO -- : verified that Item exist
+I, [2015-03-11T19:25:59.631126 #5928]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:26:01.633240 #5928]  INFO -- : Sleep was called
+I, [2015-03-11T19:26:06.975545 #5928]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:26:10.526748 #5928]  INFO -- : 
+I, [2015-03-11T19:26:18.152184 #5928]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:26:19.556265 #5928]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:26:19.880283 #5928]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:26:21.977403 #5928]  INFO -- : The search button was clicked
+I, [2015-03-11T19:26:22.107411 #5928]  INFO -- : verified that Item exist
+I, [2015-03-11T19:26:22.209416 #5928]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:26:24.209530 #5928]  INFO -- : Sleep was called
+I, [2015-03-11T19:26:29.475831 #5928]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:26:33.159042 #5928]  INFO -- : 
+I, [2015-03-11T19:26:40.534463 #5928]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:26:42.259562 #5928]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:26:42.776592 #5928]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:26:45.230732 #5928]  INFO -- : The search button was clicked
+I, [2015-03-11T19:26:45.407742 #5928]  INFO -- : verified that Item exist
+I, [2015-03-11T19:26:45.526749 #5928]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:26:47.526863 #5928]  INFO -- : Sleep was called
+I, [2015-03-11T19:26:52.971174 #5928]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:26:56.366368 #5928]  INFO -- : 
+I, [2015-03-11T19:27:03.358768 #5928]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:27:04.784850 #5928]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:27:05.161871 #5928]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:27:07.442002 #5928]  INFO -- : The search button was clicked
+I, [2015-03-11T19:27:07.686016 #5928]  INFO -- : verified that Item exist
+I, [2015-03-11T19:27:07.795022 #5928]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:27:09.795136 #5928]  INFO -- : Sleep was called
+I, [2015-03-11T19:27:15.099439 #5928]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:37:46.827316 #5884]  INFO -- : 
+I, [2015-03-11T19:37:53.726711 #5884]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:37:55.202795 #5884]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:37:55.740826 #5884]  INFO -- : Item was typed correctly on the search button
+I, [2015-03-11T19:37:59.203024 #5884]  INFO -- : The search button was clicked
+I, [2015-03-11T19:37:59.321031 #5884]  INFO -- : verified that Item exist
+I, [2015-03-11T19:37:59.494041 #5884]  INFO -- : verified that valid amount exist
+I, [2015-03-11T19:38:01.494155 #5884]  INFO -- : Sleep was called
+I, [2015-03-11T19:38:06.889463 #5884]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:48:01.630627 #6120]  INFO -- : 
+I, [2015-03-11T19:48:08.390013 #6120]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:48:09.993105 #6120]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:48:10.063109 #6120]  INFO -- : Sports and outdoors selected
+I, [2015-03-11T19:48:10.131113 #6120]  INFO -- : Road bikes selected
+I, [2015-03-11T19:48:20.137683 #6120]  INFO -- : Sleep called
+I, [2015-03-11T19:48:20.303693 #6120]  INFO -- : Mouse over action on sports and road bikes
+I, [2015-03-11T19:48:30.304264 #6120]  INFO -- : Sleep called
+I, [2015-03-11T19:48:35.623569 #6120]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:47:20.865297 #6120]  INFO -- : 
+I, [2015-03-11T19:47:29.488790 #6120]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:47:30.736861 #6120]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:47:58.702459 #6120]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:50:00.664715 #5060]  INFO -- : 
+I, [2015-03-11T19:50:08.011135 #5060]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:50:09.402214 #5060]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:50:09.488219 #5060]  INFO -- : Sports and outdoors selected
+I, [2015-03-11T19:50:09.563224 #5060]  INFO -- : Road bikes selected
+I, [2015-03-11T19:50:19.563795 #5060]  INFO -- : Sleep called
+I, [2015-03-11T19:50:19.741806 #5060]  INFO -- : Mouse over action on sports and road bikes
+I, [2015-03-11T19:50:29.742376 #5060]  INFO -- : Sleep called
+I, [2015-03-11T19:50:35.068680 #5060]  INFO -- : Browser was closed successfully
+I, [2015-03-11T19:49:20.916443 #5060]  INFO -- : 
+I, [2015-03-11T19:49:27.885841 #5060]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-03-11T19:49:29.241919 #5060]  INFO -- : Sign-in clicked
+I, [2015-03-11T19:49:57.245519 #5060]  INFO -- : Browser was closed successfully

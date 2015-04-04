@@ -24,3 +24,8 @@ Scenario: Search for HP 2711x 27 LED Monitor
 Scenario: Search for Shoes
   When I search for "Shoes"
   Then I should see "adizero Rush Shoes" and "$100.00"
+
+
+Scenario: Search for Samsung
+  When  I search for "Samsung"
+  Then I should see "Samsung 30mm NX Pancake Lens" and "$299.99"

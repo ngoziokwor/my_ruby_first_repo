@@ -8,6 +8,8 @@ When(/^I supply my valid credentials$/) do
   home_page.login_with_valid_data
 end
 
+
 Then(/^I should see a welcome message$/) do
   expect(landing_page.verify_welcome_message).to be true
 end
+
