@@ -2,12 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/pretty_face_reports/CS001_Login.html" afterPath="$PROJECT_DIR$/reports/pretty_face_reports/CS001_Login.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/step_definitions/Cs003_Validate_Login.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/features/cs003_Validate_Login.feature" />
+      <change type="DELETED" beforePath="C:\Projects\GitHub\RubyProjects\my_ruby_first_repo\Selenium.Framework.cs-cart\features\CS001_Login.feature" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/screenshots_repository/login_with_valid_data.jpeg" afterPath="$PROJECT_DIR$/reports/screenshots_repository/login_with_valid_data.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/screenshots_repository/visit_home.jpeg" afterPath="$PROJECT_DIR$/reports/screenshots_repository/visit_home.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" afterPath="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/pretty_face_reports/CS002_Search_products_and_Information.html" afterPath="$PROJECT_DIR$/reports/pretty_face_reports/CS002_Search_products_and_Information.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/log_report/execution_logs.log" afterPath="$PROJECT_DIR$/reports/log_report/execution_logs.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/pages/home_page.rb" afterPath="$PROJECT_DIR$/features/support/pages/home_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reports/pretty_face_reports/index.html" afterPath="$PROJECT_DIR$/reports/pretty_face_reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/pages/landing_page.rb" afterPath="$PROJECT_DIR$/features/support/pages/landing_page.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/features/support/world_helper.rb" afterPath="$PROJECT_DIR$/features/support/world_helper.rb" />
     </list>
     <ignored path="Selenium.Framework.cs-cart.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -16,10 +23,10 @@
     <file path="/world_helper.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1433084600454" ignored="false" />
     <file path="/env.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425310615292" ignored="false" />
     <file path="/CS001_Login_step.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425940163881" ignored="false" />
-    <file path="/home_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425526469298" ignored="false" />
+    <file path="/home_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434568150046" ignored="false" />
     <file path="/default.yml" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425579973764" ignored="false" />
-    <file path="/landing_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425543652685" ignored="false" />
-    <file path="/CS001_Login.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425319690271" ignored="false" />
+    <file path="/landing_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434569111819" ignored="false" />
+    <file path="/CS001_Login.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434566045061" ignored="false" />
     <file path="/CS002_Search_items.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425333149664" ignored="false" />
     <file path="$PROJECT_DIR$/../Apple.training.framework/features/step_definitions/AP0002_Search_iphone_step.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425336559455" ignored="false" />
     <file path="$PROJECT_DIR$/../nopcommerce.practice.framework/features/support/pages/process_order_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425337148781" ignored="false" />
@@ -36,7 +43,7 @@
     <file path="/add_cart_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425676038617" ignored="false" />
     <file path="/check_out_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425580485504" ignored="false" />
     <file path="/CS002_Search_Product_and_Information_step.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425587392024" ignored="false" />
-    <file path="/CS002_Search_products_and_Information.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434555115303" ignored="false" />
+    <file path="/CS002_Search_products_and_Information.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434570401838" ignored="false" />
     <file path="/CS003_Check_out_plasma_tv.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425589367504" ignored="false" />
     <file path="/CS05-Add_to_cart.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425997591467" ignored="false" />
     <file path="/CS05_add_item_to_cart_step.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1425590034000" ignored="false" />
@@ -52,6 +59,8 @@
     <file path="$PROJECT_DIR$/../../RubyBasics/practice1/test/test_login_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1433084354022" ignored="false" />
     <file path="/test_login_page.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1433084272746" ignored="false" />
     <file path="$PROJECT_DIR$/../../RubyBasics/practice1/world_helper.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1433084722792" ignored="false" />
+    <file path="/cs003_Validate_Login.feature" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434569479445" ignored="false" />
+    <file path="/Cs003_Validate_Login.rb" changelist="76e793c3-99eb-4e99-bbe4-4265f3e69c2f" time="1434567126067" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +80,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="CS001_Login.feature" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/features/CS001_Login.feature">
+      <file leaf-file-name="landing_page.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/landing_page.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="7" column="23" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -83,7 +92,16 @@
       <file leaf-file-name="CS002_Search_products_and_Information.feature" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="53" selection-start="813" selection-end="813" vertical-scroll-proportion="0.64084506">
+            <state line="10" column="22" selection-start="340" selection-end="340" vertical-scroll-proportion="0.42079207">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home_page.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="84" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -108,21 +126,21 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/config/environments/default.yml" />
-        <option value="$PROJECT_DIR$/features/support/pages/search_page.rb" />
-        <option value="$PROJECT_DIR$/features/CS003_Check_out_plasma_tv.feature" />
-        <option value="$PROJECT_DIR$/features/step_definitions/CS05_add_item_to_cart_step.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/mouse_over_action.step.rb" />
         <option value="$PROJECT_DIR$/features/support/pages/result_page.rb" />
-        <option value="$PROJECT_DIR$/features/step_definitions/CS001_Login_step.rb" />
-        <option value="$PROJECT_DIR$/reports/log_report/execution_logs.log" />
         <option value="$PROJECT_DIR$/features/CS05-Add_to_cart.feature" />
         <option value="$PROJECT_DIR$/features/support/pages/add_cart_page.rb" />
         <option value="$PROJECT_DIR$/features/Mouse_over_action.feature" />
         <option value="$PROJECT_DIR$/features/step_definitions/CS_Mouse_over_action_step.rb" />
         <option value="$PROJECT_DIR$/features/support/pages/mouse_over_page.rb" />
-        <option value="$PROJECT_DIR$/features/support/world_helper.rb" />
         <option value="$PROJECT_DIR$/features/CS006_checkout.feature" />
+        <option value="$PROJECT_DIR$/features/CS001_Login.feature" />
+        <option value="$PROJECT_DIR$/features/step_definitions/CS001_Login_step.rb" />
+        <option value="$PROJECT_DIR$/features/support/world_helper.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/home_page.rb" />
+        <option value="$PROJECT_DIR$/features/step_definitions/Cs003_Validate_Login.rb" />
+        <option value="$PROJECT_DIR$/features/support/pages/landing_page.rb" />
+        <option value="$PROJECT_DIR$/reports/log_report/execution_logs.log" />
+        <option value="$PROJECT_DIR$/cs003_Validate_Login.feature" />
         <option value="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" />
       </list>
     </option>
@@ -140,7 +158,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -183,61 +201,7 @@
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="reports">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="pretty_face_reports">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Selenium.Framework.cs-cart">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="reports">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="log_report">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Selenium.Framework.cs-cart">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="features">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Selenium.Framework.cs-cart">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="features">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="step_definitions">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -252,20 +216,6 @@
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
             <PATH_ELEMENT USER_OBJECT="config/environments">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT="Selenium.Framework.cs-cart">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT USER_OBJECT=".idea">
               <option name="myItemId" value="" />
               <option name="myItemType" value="" />
             </PATH_ELEMENT>
@@ -288,110 +238,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Projects\Ruby Projects\Selenium.Framework.cs-cart\features" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Projects\GitHub\RubyProjects\my_ruby_first_repo\Selenium.Framework.cs-cart\features" />
+    </key>
   </component>
-  <component name="RunManager" selected="Cucumber.Search for Fringe">
-    <configuration default="false" name="Mouse_over_action" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="Selenium.Framework.cs-cart" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/Mouse_over_action.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Mouse over action" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="Selenium.Framework.cs-cart" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/Mouse_over_action.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Mouse over action$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="CS001_Login" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
-      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
-      <module name="Selenium.Framework.cs-cart" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
-      <envs>
-        <env name="ANSICON" value="" />
-        <env name="JRUBY_OPTS" value="-X+O" />
-      </envs>
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
-      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/CS001_Login.feature" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
-      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
-      <RunnerSettings RunnerId="RubyRunner" />
-      <ConfigurationWrapper RunnerId="RubyRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Cucumber.validate search feature of the application for various products">
     <configuration default="false" name="CS002_Search_products_and_Information" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
       <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
       <module name="Selenium.Framework.cs-cart" />
@@ -448,6 +299,108 @@
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Search for Fringe$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Search for Shoes" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="Selenium.Framework.cs-cart" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^Search for Shoes$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="cs003_Validate_Login" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="Selenium.Framework.cs-cart" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="C:\Projects\GitHub\RubyProjects\my_ruby_first_repo\Selenium.Framework.cs-cart\features\cs003_Validate_Login.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="validate search feature of the application for various products" type="CucumberRunConfigurationType" factoryName="Cucumber" temporary="true">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="Selenium.Framework.cs-cart" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="ANSICON" value="" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov" />
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="^validate search feature of the application for various products$" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
       <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
@@ -563,19 +516,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Cucumber.Mouse_over_action" />
-      <item index="1" class="java.lang.String" itemvalue="Cucumber.Mouse over action" />
-      <item index="2" class="java.lang.String" itemvalue="Cucumber.CS001_Login" />
-      <item index="3" class="java.lang.String" itemvalue="Cucumber.CS002_Search_products_and_Information" />
-      <item index="4" class="java.lang.String" itemvalue="Cucumber.Search for Fringe" />
+      <item index="0" class="java.lang.String" itemvalue="Cucumber.CS002_Search_products_and_Information" />
+      <item index="1" class="java.lang.String" itemvalue="Cucumber.Search for Fringe" />
+      <item index="2" class="java.lang.String" itemvalue="Cucumber.Search for Shoes" />
+      <item index="3" class="java.lang.String" itemvalue="Cucumber.cs003_Validate_Login" />
+      <item index="4" class="java.lang.String" itemvalue="Cucumber.validate search feature of the application for various products" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Cucumber.Search for Fringe" />
-        <item index="1" class="java.lang.String" itemvalue="Cucumber.CS002_Search_products_and_Information" />
-        <item index="2" class="java.lang.String" itemvalue="Cucumber.CS001_Login" />
-        <item index="3" class="java.lang.String" itemvalue="Cucumber.Mouse over action" />
-        <item index="4" class="java.lang.String" itemvalue="Cucumber.Mouse_over_action" />
+        <item index="0" class="java.lang.String" itemvalue="Cucumber.validate search feature of the application for various products" />
+        <item index="1" class="java.lang.String" itemvalue="Cucumber.cs003_Validate_Login" />
+        <item index="2" class="java.lang.String" itemvalue="Cucumber.cs003_Validate_Login" />
+        <item index="3" class="java.lang.String" itemvalue="Cucumber.cs003_Validate_Login" />
+        <item index="4" class="java.lang.String" itemvalue="Cucumber.cs003_Validate_Login" />
       </list>
     </recent_temporary>
   </component>
@@ -650,11 +603,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32894737" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34242424" sideWeight="0.7434211" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34242424" sideWeight="0.7072368" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25657895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29276314" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3262295" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -729,16 +682,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/features/support/pages/search_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="5" selection-start="269" selection-end="269" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/reports/pretty_face_reports/stylesheets/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="35" selection-start="1391" selection-end="1391" vertical-scroll-proportion="0.40753424" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/features/CS006_checkout.feature">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="37" selection-start="82" selection-end="82" vertical-scroll-proportion="0.08732877" />
@@ -752,48 +695,6 @@
     <entry file="file://$PROJECT_DIR$/features/support/pages/result_page.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="28" selection-start="121" selection-end="121" vertical-scroll-proportion="0.02910959" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/environments/default.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/step_definitions/CS001_Login_step.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/pages/landing_page.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/features/support/world_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/step_definitions/CS002_Search_Product_and_Information_step.rb">
@@ -810,9 +711,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/hooks.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="12" selection-start="25" selection-end="25" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/world_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="44" selection-start="291" selection-end="291" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/CS001_Login_step.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="62" selection-end="82" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/home_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="84" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/support/pages/landing_page.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="23" selection-start="95" selection-end="95" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/reports/log_report/execution_logs.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-107.484535">
+        <state line="2823" column="17" selection-start="256887" selection-end="256887" vertical-scroll-proportion="0.13934426">
           <folding />
         </state>
       </provider>
@@ -820,16 +756,30 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/features/CS001_Login.feature">
+    <entry file="file://$PROJECT_DIR$/features/step_definitions/Cs003_Validate_Login.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="12" column="23" selection-start="313" selection-end="313" vertical-scroll-proportion="0.5049505">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/features/cs003_Validate_Login.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="28" selection-start="1685" selection-end="1685" vertical-scroll-proportion="0.60148513">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environments/default.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="28" selection-start="129" selection-end="129" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/features/CS002_Search_products_and_Information.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="53" selection-start="813" selection-end="813" vertical-scroll-proportion="0.64084506">
+        <state line="10" column="22" selection-start="340" selection-end="340" vertical-scroll-proportion="0.42079207">
           <folding />
         </state>
       </provider>

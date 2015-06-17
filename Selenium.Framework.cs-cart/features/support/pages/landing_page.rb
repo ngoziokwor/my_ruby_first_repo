@@ -6,10 +6,10 @@ class LandingPage
   end
 
 
-  def verify_welcome_message
+  def verify_login(message)
     begin
-      @browser.page_source.include?("Account")
-      @log.info("Verified login was successful")
+      @browser.page_source.include?(message)
+      @log.info("Verified that "+ message +" exist on the page")
     rescue Exception => e
       @log.debug(e)
       @browser.save_screenshot("reports/screenshots_repository/verify_welcome_message.jpeg")

@@ -2468,3 +2468,481 @@ I, [2015-06-17T16:33:03.351760 #4284]  INFO -- : verified that Item exist
 I, [2015-06-17T16:33:03.425764 #4284]  INFO -- : verified that valid amount exist
 I, [2015-06-17T16:33:05.425879 #4284]  INFO -- : Sleep was called
 I, [2015-06-17T16:33:10.587174 #4284]  INFO -- : Browser was closed successfully
+I, [2015-06-17T19:28:20.794126 #4852]  INFO -- : 
+I, [2015-06-17T19:28:30.171662 #4852]  INFO -- : Opened the web app CS-Cart.com
+I, [2015-06-17T19:28:51.410877 #4852]  INFO -- : Browser was closed successfully
+I, [2015-06-17T19:45:48.639059 #2308]  INFO -- : 
+I, [2015-06-17T19:45:54.054369 #2308]  INFO -- : Browser was closed successfully
+I, [2015-06-17T19:58:33.259793 #3664]  INFO -- : 
+I, [2015-06-17T19:58:33.261793 #3664]  INFO -- : Opened the web app CS-Cart.com
+E, [2015-06-17T19:58:49.178703 #3664] ERROR -- : Error occurred at visit_home
+D, [2015-06-17T19:58:49.178703 #3664] DEBUG -- : no such element
+  (Session info: chrome=43.0.2357.124)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:11:in `visit_home'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/step_definitions/Cs003_Validate_Login.rb:2:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-06-17T19:59:05.699648 #3664]  INFO -- : Screenshot was taken successfully
+D, [2015-06-17T19:59:05.699648 #3664] DEBUG -- : no such element
+  (Session info: chrome=43.0.2357.124)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:22:in `login_with'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/step_definitions/Cs003_Validate_Login.rb:7:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-06-17T19:59:06.045668 #3664]  INFO -- : Verified login was successful
+I, [2015-06-17T19:59:11.541982 #3664]  INFO -- : Browser was closed successfully
+I, [2015-06-17T19:59:40.341630 #5876]  INFO -- : 
+I, [2015-06-17T19:59:40.348630 #5876]  INFO -- : Opened the web app CS-Cart.com
+E, [2015-06-17T19:59:57.101588 #5876] ERROR -- : Error occurred at visit_home
+D, [2015-06-17T19:59:57.101588 #5876] DEBUG -- : no such element
+  (Session info: chrome=43.0.2357.124)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:11:in `visit_home'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/step_definitions/Cs003_Validate_Login.rb:2:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-06-17T20:00:14.158564 #5876]  INFO -- : Screenshot was taken successfully
+D, [2015-06-17T20:00:14.158564 #5876] DEBUG -- : no such element
+  (Session info: chrome=43.0.2357.124)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86_64) (Selenium::WebDriver::Error::NoSuchElementError)
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:52:in `assert_ok'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/response.rb:15:in `initialize'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `new'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:59:in `create_response'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/default.rb:66:in `request'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/http/common.rb:40:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:640:in `raw_execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:618:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/remote/bridge.rb:586:in `find_element_by'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/selenium-webdriver-2.44.0/lib/selenium/webdriver/common/search_context.rb:42:in `find_element'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/support/pages/home_page.rb:22:in `login_with'
+C:/Projects/GitHub/RubyProjects/my_ruby_first_repo/Selenium.Framework.cs-cart/features/step_definitions/Cs003_Validate_Login.rb:7:in `block in <top (required)>'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:48:in `block in cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:69:in `cucumber_run_with_backtrace_filtering'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/core_ext/instance_exec.rb:36:in `cucumber_instance_exec'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/rb_support/rb_step_definition.rb:97:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/step_match.rb:25:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:60:in `invoke'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_invocation.rb:38:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:106:in `block in visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:105:in `visit_step'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:19:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/step_collection.rb:18:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:100:in `block in visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:99:in `visit_steps'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:15:in `block in execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:83:in `block (2 levels) in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:99:in `before_and_after'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:82:in `block in with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:120:in `block (3 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:9:in `block in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:91:in `execute_around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/language_support/language_methods.rb:8:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:119:in `block (2 levels) in around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `call'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime/support_code.rb:117:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:94:in `around'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:81:in `with_hooks'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:13:in `execute'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:32:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:79:in `with_visitor'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/scenario.rb:31:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:58:in `block in visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:57:in `visit_feature_element'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:38:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/feature.rb:37:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:27:in `block in visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:26:in `visit_feature'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:28:in `block in accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:17:in `each'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/features.rb:27:in `accept'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:21:in `block in visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:170:in `broadcast'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/ast/tree_walker.rb:20:in `visit_features'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/runtime.rb:49:in `run!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/lib/cucumber/cli/main.rb:47:in `execute!'
+C:/Ruby193/lib/ruby/gems/1.9.1/gems/cucumber-1.3.18/bin/cucumber:13:in `<top (required)>'
+C:/Ruby193/bin/cucumber:23:in `load'
+C:/Ruby193/bin/cucumber:23:in `<top (required)>'
+-e:1:in `load'
+-e:1:in `<main>'
+I, [2015-06-17T20:00:14.314573 #5876]  INFO -- : Verified login was successful
+I, [2015-06-17T20:00:19.756884 #5876]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:05:40.486229 #3544]  INFO -- : 
+I, [2015-06-17T20:05:43.278388 #3544]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:05:46.459570 #3544]  INFO -- : Email entered successfully
+I, [2015-06-17T20:05:48.497687 #3544]  INFO -- : Password entered successfully
+I, [2015-06-17T20:05:48.876709 #3544]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:05:49.388738 #3544]  INFO -- : Verified login was successful
+I, [2015-06-17T20:05:54.747044 #3544]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:09:48.566418 #6900]  INFO -- : 
+I, [2015-06-17T20:09:50.988557 #6900]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:09:52.193626 #6900]  INFO -- : Email entered successfully
+I, [2015-06-17T20:09:53.050675 #6900]  INFO -- : Password entered successfully
+I, [2015-06-17T20:09:53.442697 #6900]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:09:58.023959 #6900]  INFO -- : Verified login was successful
+I, [2015-06-17T20:10:03.868293 #6900]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:19:42.323379 #5980]  INFO -- : 
+I, [2015-06-17T20:19:45.354552 #5980]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:19:46.279605 #5980]  INFO -- : Email entered successfully
+I, [2015-06-17T20:19:46.755633 #5980]  INFO -- : Password entered successfully
+I, [2015-06-17T20:19:47.013647 #5980]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:19:50.735860 #5980]  INFO -- : Verified login was successful
+I, [2015-06-17T20:19:56.329180 #5980]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:26:19.784112 #5104]  INFO -- : 
+I, [2015-06-17T20:26:22.528269 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:26:24.230367 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:26:25.322429 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:26:25.848459 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:26:31.173764 #5104]  INFO -- : Verified that Sign out exist on the page
+I, [2015-06-17T20:26:36.739082 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:27:16.069332 #5104]  INFO -- : 
+I, [2015-06-17T20:27:18.917495 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:27:20.809603 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:27:21.511643 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:27:21.986670 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:27:23.952783 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:27:29.276087 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:26:48.125734 #5104]  INFO -- : 
+I, [2015-06-17T20:26:51.179908 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:26:53.198024 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:26:54.280086 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:26:54.683109 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:26:57.296258 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:27:03.026586 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:27:40.562733 #5104]  INFO -- : 
+I, [2015-06-17T20:27:43.235886 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:27:44.359950 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:27:45.074991 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:27:45.443012 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:27:47.468128 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:27:52.816434 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:28:28.800492 #5104]  INFO -- : 
+I, [2015-06-17T20:28:31.757661 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:28:32.353695 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:28:32.944729 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:28:33.468759 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:28:34.154798 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:28:39.528105 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:28:05.210143 #5104]  INFO -- : 
+I, [2015-06-17T20:28:07.921298 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:28:08.692342 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:28:09.753402 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:28:10.227429 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:28:11.021475 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:28:16.386782 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:28:50.829752 #5104]  INFO -- : 
+I, [2015-06-17T20:28:53.790921 #5104]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:28:55.689030 #5104]  INFO -- : Email entered successfully
+I, [2015-06-17T20:28:56.079052 #5104]  INFO -- : Password entered successfully
+I, [2015-06-17T20:28:56.439073 #5104]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:28:57.321123 #5104]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:29:02.708431 #5104]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:32:10.064147 #1988]  INFO -- : 
+I, [2015-06-17T20:32:13.116322 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:32:14.788418 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:32:15.618465 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:32:15.939483 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:32:20.865765 #1988]  INFO -- : Verified that Sign out exist on the page
+I, [2015-06-17T20:32:26.257074 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:33:05.974345 #1988]  INFO -- : 
+I, [2015-06-17T20:33:08.911513 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:33:10.966631 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:33:11.626669 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:33:12.233703 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:33:14.660842 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:33:20.190158 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:32:39.753846 #1988]  INFO -- : 
+I, [2015-06-17T20:32:42.386996 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:32:44.126096 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:32:44.775133 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:32:45.269161 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:32:47.703300 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:32:53.176613 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:33:34.518978 #1988]  INFO -- : 
+I, [2015-06-17T20:33:37.666158 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:33:39.252249 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:33:40.468318 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:33:40.964347 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:33:43.257478 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:33:48.395772 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:34:26.678961 #1988]  INFO -- : 
+I, [2015-06-17T20:34:29.623130 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:34:30.057155 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:34:30.520181 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:34:31.135216 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:34:31.863258 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:34:37.400575 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:34:01.997550 #1988]  INFO -- : 
+I, [2015-06-17T20:34:04.999721 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:34:06.207790 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:34:07.278852 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:34:07.646873 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:34:08.526923 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:34:13.863228 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:34:58.479780 #1988]  INFO -- : 
+I, [2015-06-17T20:35:02.638018 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:35:04.513125 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:35:05.097159 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:35:05.702193 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:35:06.434235 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:35:11.764540 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:35:47.914608 #1988]  INFO -- : 
+I, [2015-06-17T20:35:50.776771 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:35:52.087846 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:35:52.625877 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:35:53.111905 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:35:53.906950 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:35:59.754285 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:35:25.420321 #1988]  INFO -- : 
+I, [2015-06-17T20:35:28.486496 #1988]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:35:28.976525 #1988]  INFO -- : Email entered successfully
+I, [2015-06-17T20:35:30.066587 #1988]  INFO -- : Password entered successfully
+I, [2015-06-17T20:35:30.531613 #1988]  INFO -- : Remember me option ticked
+I, [2015-06-17T20:35:31.334659 #1988]  INFO -- : Verified that Sign in exist on the page
+I, [2015-06-17T20:35:36.881977 #1988]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:47:51.599000 #6804]  INFO -- : 
+I, [2015-06-17T20:47:54.742180 #6804]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:47:56.482279 #6804]  INFO -- : Item was typed correctly on the search button
+I, [2015-06-17T20:47:59.391446 #6804]  INFO -- : The search button was clicked
+I, [2015-06-17T20:47:59.545455 #6804]  INFO -- : verified that Item exist
+I, [2015-06-17T20:47:59.730465 #6804]  INFO -- : verified that valid amount exist
+I, [2015-06-17T20:48:01.735580 #6804]  INFO -- : Sleep was called
+I, [2015-06-17T20:48:07.391903 #6804]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:48:19.706608 #6804]  INFO -- : 
+I, [2015-06-17T20:48:22.288755 #6804]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:48:23.261811 #6804]  INFO -- : Item was typed correctly on the search button
+I, [2015-06-17T20:48:25.815957 #6804]  INFO -- : The search button was clicked
+I, [2015-06-17T20:48:26.054971 #6804]  INFO -- : verified that Item exist
+I, [2015-06-17T20:48:26.221980 #6804]  INFO -- : verified that valid amount exist
+I, [2015-06-17T20:48:28.222095 #6804]  INFO -- : Sleep was called
+I, [2015-06-17T20:48:33.630404 #6804]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:48:46.133119 #6804]  INFO -- : 
+I, [2015-06-17T20:48:49.024285 #6804]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:48:49.771327 #6804]  INFO -- : Item was typed correctly on the search button
+I, [2015-06-17T20:48:52.184465 #6804]  INFO -- : The search button was clicked
+I, [2015-06-17T20:48:52.422479 #6804]  INFO -- : verified that Item exist
+I, [2015-06-17T20:48:52.544486 #6804]  INFO -- : verified that valid amount exist
+I, [2015-06-17T20:48:54.544600 #6804]  INFO -- : Sleep was called
+I, [2015-06-17T20:48:59.922908 #6804]  INFO -- : Browser was closed successfully
+I, [2015-06-17T20:49:13.441681 #6804]  INFO -- : 
+I, [2015-06-17T20:49:16.331847 #6804]  INFO -- : Sign-in clicked
+I, [2015-06-17T20:49:17.551916 #6804]  INFO -- : Item was typed correctly on the search button
+I, [2015-06-17T20:49:20.181067 #6804]  INFO -- : The search button was clicked
+I, [2015-06-17T20:49:20.383078 #6804]  INFO -- : verified that Item exist
+I, [2015-06-17T20:49:20.698096 #6804]  INFO -- : verified that valid amount exist
+I, [2015-06-17T20:49:22.699211 #6804]  INFO -- : Sleep was called
+I, [2015-06-17T20:49:27.970512 #6804]  INFO -- : Browser was closed successfully

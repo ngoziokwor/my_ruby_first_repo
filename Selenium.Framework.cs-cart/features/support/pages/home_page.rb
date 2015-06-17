@@ -7,9 +7,7 @@ class HomePage
 
   def visit_home
     begin
-      @browser.navigate.to(FigNewton.base_url)
-      @log.info("Opened the web app CS-Cart.com")
-      @browser.find_element(:xpath => "//*[@id='account_info_links_13']/li[1]/a").click
+      @browser.find_element(:xpath => "//*[@id='account_info_links_14']/li[1]/a").click
       @log.info("Sign-in clicked")
     rescue Exception => e
       @browser.save_screenshot("reports/screenshots_repository/visit_home.jpeg")
@@ -18,15 +16,15 @@ class HomePage
     end
   end
 
-  def login_with_valid_data
+  def login_with(username, password)
     begin
-      username = @browser.find_element(:id => "login_main_login")
-      username.clear
-      username.send_keys(FigNewton.valid_username)
+      username_field = @browser.find_element(:id => "login_main_login")
+      username_field.clear
+      username_field.send_keys(username)
       @log.info("Email entered successfully")
-      password = @browser.find_element(:id => "psw_main_login")
-      password.clear
-      password.send_keys(FigNewton.valid_password)
+      password_field = @browser.find_element(:id => "psw_main_login")
+      password_field.clear
+      password_field.send_keys(password)
       @log.info("Password entered successfully")
       @browser.find_element(:id => "remember_me_main_login").click
       @log.info("Remember me option ticked")

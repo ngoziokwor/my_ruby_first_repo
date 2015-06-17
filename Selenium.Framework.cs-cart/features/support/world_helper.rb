@@ -9,6 +9,7 @@ module WorldHelper
     @browser = Selenium::WebDriver.for :chrome
     @browser.manage.timeouts.implicit_wait = 15
     @browser.manage.window.maximize
+    @browser.navigate.to(FigNewton.base_url)
     file = File.open("reports/log_report/execution_logs.log", "a")
     @log ||= Logger.new(file)
     @log.info("")
