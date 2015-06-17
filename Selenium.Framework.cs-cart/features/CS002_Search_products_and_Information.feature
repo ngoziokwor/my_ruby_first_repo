@@ -29,3 +29,8 @@ Scenario: Search for Shoes
 Scenario: Search for Samsung
   When  I search for "Samsung"
   Then I should see "Samsung 30mm NX Pancake Lens" and "$299.99"
+
+
+Scenario: Search for Fringe
+  When I search for "Fringe"
+  Then I should see "Fringe The Complete Third Season" and "$17.99"
